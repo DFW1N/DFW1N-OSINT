@@ -13,3 +13,5 @@
 
 ## [↑](#contents) Credits
 [DFW1N](https://github.com/DFW1N)
+ # Donate
+ Bitcoin:
