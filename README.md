@@ -77,6 +77,8 @@ This list will provide you with the largest email providers to assist you in eit
 * [Reddit](https://www.reddit.com)
 * [Pinterest](https://www.pinterest.com)
 * [Tumblr](https://www.tumblr.com)
+* [WhatsApp](https://www.whatsapp.com/)
+* [Facebook Messenger](https://www.messenger.com/)
 
 
 ## [↑](#contents) Australian Dating Networks
@@ -177,6 +179,7 @@ List known search engines used to browse the internet.
 * [Google](https://www.google.com)
 * [Bing](https://www.bing.com)
 * [Ask](http://www.ask.com)
+* [Yippy](http://yippy.com) - *Yippy is a search engine that will use multiple sources to try get as much data as possible on your key words that you input.* 
 * [Yahoo](http://www.yahoo.com)
 * [DuckDuckGo](https://duckduckgo.com)
 * [Aol](http://search.aol.com)
@@ -187,6 +190,12 @@ List known search engines used to browse the internet.
 * [Lycos](http://www.lycos.com)
 * [Dothop](http://dothop.com)
 * [Gigablast](http://gigablast.com)
+* [Advangle](http://advangle.com)
+* [Myallsearch](http://www.myallsearch.com)
+* [Zapmeta](http://www.zapmeta.com)
+* [iZito](http://www.izito.com)
+* [All-in-One](http://all-io.net)
+* [Carrot2](http://search.carrot2.org) - *Carrot2 organizes your search results into topics. With an instant overview of what's available, you will quickly find what you're looking for.*
 
 ## [↑](#contents) Best Browser Add-ons for OSINT
 
