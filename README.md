@@ -17,6 +17,7 @@ Contributor:                                                [<img src="https://g
 - [Introduction](#-introduction)
 - [OSINT Operating Systems](#-osint-operating-systems)
 - [Virtual Machines](#-virtual-machines)
+- [Live Cams Australia](#-live-cams-australia)
 - [Online Fake Identification](#-online-fake-identification)
 - [Large Free Email Providers](#-Large-free-email-providers)
 - [Large Social Networks](#-Large-social-networks)
@@ -51,6 +52,14 @@ Below will be listed the Two best known operating systems to start conducting OS
 ## [↑](#contents) Virtual Machines
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
 * [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a proffesional version you can purchase if you prefer the proffesional version over the free version.*
+
+## [↑](#contents) Live Cams Australia
+Have you seen anything suspiouis happening in these live cams streaming all around Australia?
+* [Live View of Sydney Harbour](https://webcamsydney.com/) - *Live Cam over Sydney Harbour*
+* [Live View of Quay West Sydney](https://www.quaywestsuitessydney.com.au/webcam-en.html) - *See anything suspicious happening you can go back and forward on the footage you may find what your looking for.*
+* [Sydney Cameras Live](https://www.webcams.travel/webcam/1179853135-Weather-Sydney-Harbour%2C-Australia-Sydney-CBD) - *View Multiple or watch footage that happend throughout the day you may find what your searching for.*
+* [Watch Live Survelliance Online Australia](https://www.insecam.org/en/bycountry/AU/) - *Footage of live Survelliance Cameras Australia wide.*
+
 
 ## [↑](#contents) Online Fake Identification
 So you are making burn accounts to do your OSINT on the internet and deep web wouldnt it be easy for you to create a quick easy fake identity online to save to a notepad to remember your fake address, username, email, burner phone numbers these websites will assist you in creating a fake identity in a matter of minutes to help with OSINT on burn accounts.
@@ -97,6 +106,7 @@ shows you, what they are talking about.*
 * [Obtain Twitter IDs](http://gettwitterid.com)
 * [Audit Twitter Followers](https://www.twitteraudit.com) - *Find out how many of your targets followers are real are they buying twitter followers?*
 * [Find Twitter First Follower](https://socialrank.com/firstfollower) - *Who was your targets first follower or maybe yours?*
+* [Hashtagify](https://hashtagify.me/hashtag/tbt) - *Monitor your performance, exploit the best hashtag suggestions and identify Twitter influencers. All in one place.*
 
 ## [↑](#contents) Australian Dating Networks
 You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
