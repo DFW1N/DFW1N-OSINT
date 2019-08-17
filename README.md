@@ -20,6 +20,7 @@ Thanks to:                                                [<img src="https://git
 - [Australian Dating Networks](#-australian-dating-networks)
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
+- [Online Alerts](#-online-alerts)
 - [Police Websites](#-police-websites)
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
@@ -27,6 +28,7 @@ Thanks to:                                                [<img src="https://git
 - [Most Visited Sites](#-most-visited-sites)
 - [Australian Capital Cities](#-country-capital-cities)
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
+- [OSINT Tools](#-OSINT-tools)
 - [VPN Services](#-vpn-services)
 - [Dark Web Links](#-dark-web-links)
 
@@ -124,7 +126,13 @@ This list is the main job search networks used in Australia to find job employme
 * [Gumtree Jobs Australia](https://www.gumtree.com.au/jobs) - *Jobs posted by organisations, Recruiters, Managers, Owners and more.*
 * [Neuvoo Australia](https://au.neuvoo.com/) - *You can look for jobs based on city, state, region, industry, company, and skills.*
 
-
+## [↑](#contents) Online Alerts
+Specifically use these to get alerts when somthing changes or is posted with specific enteries online. Wouldn't be a bad idea to put alerts on your targets social media accounts or name online.
+* [Google Alert](https://www.google.com.au/alerts) - *Create Google Alerts.*
+* [Mention](https://mention.com/en/) - *Get live updates about your brand from the web and social media.*
+* [Talkwalker Alerts](https://www.talkwalker.com/alerts) - *Monitor the Web for interesting new content about your name, brand, competitors, events or any favorite topic with Talkwalker Alerts!*
+* [Meltwater](https://www.meltwater.com/au/) - *Social and marketing teams go beyond media monitoring. Try Monitoring your targets bussiness or organisation.*
+* [PasteLert](https://andrewmohawk.com/pasteLert/) - *Set up alerts (like google alerts) for pastebin.com entries.*
 
 ## [↑](#contents) Police Websites
 This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all police sites in one place for quick access to information or policies you are looking for or leads on your targets.
@@ -245,6 +253,9 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [IP Geolocation](https://tools.keycdn.com/geo)
 * [Whois](https://www.whois.com/whois/)
 * [API and IP Location Lookup Database](https://ipgeolocation.io/)
+
+## [↑](#contents) OSINT Tools
+* [Maltego](https://www.paterva.com/) - *Maltego is proprietary software used for open-source intelligence and forensics.*
 
 
 ## [↑](#contents) VPN Services
