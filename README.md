@@ -36,6 +36,7 @@ This list will be split up into main job search networks in each country.
 * [Jora Australia](https://au.jora.com/) - *You can find a wide variety of roles.*
 * [New South Wales Government Job Search](https://iworkfor.nsw.gov.au/) - *Jobs in the New South Wales Government.*
 * [Queensland Government Job Search](https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904) - *Queensland Government Jobs.*
+* [Victorian Government Job Search](https://www.careers.vic.gov.au/) - *Jobs in Victorian Government.*
 * [South Australia Government Job Search](https://iworkfor.sa.gov.au/) - *Jobs in South Australian Government.*
 * [Northern Terrority Government Job Search](https://jobs.nt.gov.au/Home/Search) - *Jobs in Northern Terrority Government.*
 * [Western Australia Government Job Search](https://search.jobs.wa.gov.au/) - *Jobs in Western Australia Government.*
@@ -62,13 +63,13 @@ This list will be split up into main job search networks in each country.
 This section is dedicated to each country to assist in quickly finding all police sites relating to your country.
 
 ## Australia
-* [New South Wales Police Force](https://www.police.nsw.gov.au/)
-* [Queensland Police Force](https://www.police.qld.gov.au/)
-* [South Australia Police Force](https://www.police.sa.gov.au/)
-* [Western Australia Police Force](https://www.police.wa.gov.au/)
-* [Victorian Police Force](https://www.police.vic.gov.au/)
-* [Northern Terrority Police Force](https://www.police.vic.gov.au/)
-* [Australian Federal Police](https://www.afp.gov.au/)
+* [New South Wales Police Force](https://www.police.nsw.gov.au/) - *Australian New South Wales Police Force Website.*
+* [Queensland Police Force](https://www.police.qld.gov.au/) - *Australian Queensland Force Website.*
+* [South Australia Police Force](https://www.police.sa.gov.au/) - *Australian South Australia Police Force Website.*
+* [Western Australia Police Force](https://www.police.wa.gov.au/) - *Australian Western Australia Police Force Website.*
+* [Victorian Police Force](https://www.police.vic.gov.au/) - *Australian Victorian Police Force Website.*
+* [Northern Terrority Police Force](https://www.police.vic.gov.au/) - *Australian Northern Terrority Police Force Website.*
+* [Australian Federal Police](https://www.afp.gov.au/) - *Australian Federal Police Website.*
 
  # Donate
  Bitcoin:
