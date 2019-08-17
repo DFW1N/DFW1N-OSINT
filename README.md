@@ -11,6 +11,8 @@ Contributor:                                                [<img src="https://g
 
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
+
+
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
 - [OSINT Operating Systems](#-osint-operating-systems)
