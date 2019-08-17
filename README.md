@@ -14,6 +14,7 @@ Thanks to:                                                [<img src="https://git
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
 - [OSINT Operating Systems](#-osint-operating-systems)
+- [Virtual Machines](#-virtual-machines)
 - [Large Social Networks](#-Large-social-networks)
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
@@ -38,6 +39,8 @@ Below will be listed the Two best known operating systems to start conducting OS
 * [Buscador OS](https://inteltechniques.com/buscador/) - *This Operating System is setup for Investigators and Ethical Hackers for OSINT purposes.*
 * [Kali Linux OS](https://www.kali.org/downloads/) - *Kali Linux Operating System is widely used by Offensive Security Teams, Hackers and Ethical Hackers.*
 
+## [↑](#contents) Virtual Machines
+* [VirtualBox](https://www.virtualbox.org/) - These Virtual Machines are compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/)
 
 ## [↑](#contents) Large Social Networks
 * [Facebook](https://www.facebook.com)
