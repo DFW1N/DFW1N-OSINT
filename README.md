@@ -16,6 +16,7 @@ Thanks to:                                                [<img src="https://git
 - [Police Websites](#-police-websites)
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
+- [Most Visited Sites](#-most-visited-sites)
 - [Dark Web Links](#-dark-web-links)
 
 ## Social Media
@@ -28,6 +29,19 @@ Thanks to:                                                [<img src="https://git
 
 
 ## [↑](#contents) Person Investigations
+This will assist you with quick references to websites that could speed up your research on people.
+
+## Australia
+* [White Pages (AU)](https://www.whitepages.com.au/residential)
+* [People Search (Australia)](http://www.peoplesearch.com.au)
+* [facesearch](http://facesaerch.com) - Search for images of a person by name.
+* [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
+* [Family Search](https://familysearch.org)
+* [Ancestry Australia](https://www.ancestry.com.au/)
+* [Family Tree Now](http://www.familytreenow.com/)
+* [MelissaDATA](http://www.melissadata.com/lookups/peoplefinder.asp)
+* [Wink](http://itools.com/tool/wink-people-search)
+* [Switchboard](http://www.switchboard.com)
 
 ## [↑](#contents) Job Search Networks
 This list will be split up into main job search networks in each country.
@@ -57,6 +71,9 @@ This list will be split up into main job search networks in each country.
 * [OneShift Australia](https://au.oneshiftjobs.com/) - *Find one-off shifts, casual work, or permanent part-time employment.*
 * [CareerJet Australia](https://www.careerjet.com.au/) - *You can find a wide variety of roles.*
 * [ArtsHub Australia](https://www.artshub.com.au/) - *If you’re looking for work in the arts, cultural, or creative industries.*
+* [GlassDoor Australia](https://www.glassdoor.com.au/index.htm) - *You can find a wide variety of roles.*
+* [Gumtree Jobs Australia](https://www.gumtree.com.au/jobs) - *Jobs posted by organisations, Recruiters, Managers, Owners and more.*
+* [Neuvoo Australia](https://au.neuvoo.com/) - *You can look for jobs based on city, state, region, industry, company, and skills.*
 
 ## America
 
@@ -105,6 +122,31 @@ This section will list known Internet Browsers.
 * [Yandex Browser](https://browser.yandex.com/desktop/main)
 * [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that allows you to access the Dark Web without being tracked mainly used to browse the deep web or stay annonymous online.
+
+## [↑](#contents) Most Visited Sites
+This Section will list the most visited sites in each country the benefit of this list will give you quick access to sites you could use to scrape for usernames or emails registered to it to locate or find information on people.
+
+## Australia
+* [Youtube](https://www.youtube.com/)
+* [Facebook](https://www.facebook.com/)
+* [Wikipedia](https://www.wikipedia.org/)
+* [Ebay Australia](https://www.ebay.com.au/)
+* [Twitter](https://twitter.com/home)
+* [Outlook](https://outlook.live.com/owa/)
+* [Instagram](https://www.instagram.com)
+* [Reddit](https://www.reddit.com)
+* [Linkedin](https://www.linkedin.com)
+* [OzBargin](https://www.ozbargain.com.au/)
+* [Amazon Australia](https://www.amazon.com.au/)
+* [Livejasmin R18+](https://www.livejasmin.com/en/girls)
+* [Tumblr](https://www.tumblr.com/)
+* [Seek Australia](https://www.seek.com.au/)
+* [Imdb](https://www.imdb.com/)
+* [Pornhub](https://www.pornhub.com)
+* [Realestate Australia](https://www.realestate.com.au/buy)
+* [Gumtree Australia](https://www.gumtree.com.au)
+* [NTD News](https://www.ntd.com/)
+* [Apple Australia](https://www.apple.com/au/)
 
 ## [↑](#contents) Dark Web Links
 * [Deep Web Links](https://thehiddenwiki.org)
