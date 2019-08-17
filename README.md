@@ -7,7 +7,7 @@ So you want to do background checks on employees or find a missing person assist
 This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made in 2019 and relates to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
 
 ## [↑](#contents) Credits
-Thanks to:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
+Contributor:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
 
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
