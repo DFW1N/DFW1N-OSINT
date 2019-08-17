@@ -7,7 +7,7 @@ This List is in progress and will be a list specificually on OSINT tools in 2019
 *Thanks to:
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
-[<img src="https://gyazo.com/58ea81729a5cff4e9b9598e2df68931b" align="right" width="100">](https://github.com/DFW1N/DFW1N-OSINT)
+[<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="100">](https://github.com/DFW1N/DFW1N-OSINT)
 
 ## 📖 Table of Contents
 - [Social Media](#social-media)
