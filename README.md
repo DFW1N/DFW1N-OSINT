@@ -12,6 +12,7 @@ Thanks to:                                                [<img src="https://git
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
 ## 📖 Table of Contents
+- [Introduction](#-introduction)
 - [OSINT Operating Systems](#-osint-operating-systems)
 - [Large Social Networks](#-Large-social-networks)
 - [Person Investigations](#-person-investigations)
@@ -20,11 +21,15 @@ Thanks to:                                                [<img src="https://git
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
 - [Most Visited Sites](#-most-visited-sites)
-- [Country Capital Cities](#-country-capital-cities)
+- [Australian Capital Cities](#-country-capital-cities)
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
+- [VPN Services](#-vpn-services)
 - [Dark Web Links](#-dark-web-links)
 
-## OSINT Operating Systems
+## [↑](#contents) Introduction
+I have created this for the purposes of Open Source Intelligence Gathering known as (OSINT) this is a guide and cheat sheet or just somthing you can use to speed up your process for Background Checks, Employee Information Scraping, Finding Missing People and much more this list would benefit, Government Agencies, Recruiting Officers, Employees, Managers, Police Services, Intelligence Services and more this has been targeted towards OSINT in Australia only for finding missing people and other reasons.
+
+## [↑](#contents) OSINT Operating Systems
 Below will be listed the Two best known operating systems to start conducting OSINT to scrape the wider Internet and Deep web on your target.
 
 * [Buscador OS](https://inteltechniques.com/buscador/) - *This Operating System is setup for Investigators and Ethical Hackers for OSINT purposes.*
@@ -86,12 +91,10 @@ This list will be split up into main job search networks in each country.
 * [Gumtree Jobs Australia](https://www.gumtree.com.au/jobs) - *Jobs posted by organisations, Recruiters, Managers, Owners and more.*
 * [Neuvoo Australia](https://au.neuvoo.com/) - *You can look for jobs based on city, state, region, industry, company, and skills.*
 
-### America
 
-### Canada 
 
 ## [↑](#contents) Police Websites
-This section is dedicated to each country to assist in quickly finding all police sites relating to your country.
+This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all police sites in one place for quick access to information or policies you are looking for or leads on your targets.
 
 ### Australia
 * [New South Wales Police Force](https://www.police.nsw.gov.au/) - *Australian New South Wales Police Force Website.*
@@ -136,7 +139,7 @@ This section will list known Internet Browsers.
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that allows you to access the Dark Web without being tracked mainly used to browse the deep web or stay annonymous online.
 
 ## [↑](#contents) Most Visited Sites
-This Section will list the most visited sites in each country the benefit of this list will give you quick access to sites you could use to scrape for usernames or emails registered to it to locate or find information on people.
+This Section will list the most visited sites in Australia the benefit of this list will give you quick access to sites you could use to scrape for usernames or emails registered to it to locate or find information on people.
 
 ### Australia
 * [Youtube](https://www.youtube.com/)
@@ -160,7 +163,7 @@ This Section will list the most visited sites in each country the benefit of thi
 * [NTD News](https://www.ntd.com/)
 * [Apple Australia](https://www.apple.com/au/)
 
-## [↑](#contents) Country Capital Cities
+## [↑](#contents) Australian Capital Cities
 
 ### Australia
 * [Sydney - New South Wales](https://en.wikipedia.org/wiki/Sydney)
@@ -189,6 +192,21 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [Whois](https://www.whois.com/whois/)
 * [API and IP Location Lookup Database](https://ipgeolocation.io/)
 
+
+## [↑](#contents) VPN Services
+Below will be well known VPN Services to keep you annonymous online and to ensure you cannot be tracked by hackers or others especially when browsing the dark web or scraping information from sites on the wider internet.
+
+### VPN Services
+* [ProtonVPN](https://protonvpn.com/) - *This VPN Service is based in Switzerland and has a free VPN and Premium VPN Service.*
+* [Hotspot Shield](https://www.hotspotshield.com/free-vpn/)
+* [Windscribe VPN](https://windscribe.com/)
+* [ExpressVPN](https://www.expressvpn.com/techradar)
+* [SurfShark](https://surfshark.com/)
+* [StrongVPN](https://strongvpn.com/)
+* [NordVPN](https://nordvpn.com/)
+* [TunnelBear](https://www.tunnelbear.com/)
+* [IPVanish](https://www.ipvanish.com/)
+There are many other VPN Services this is just a handful look around find one that is right for you.
 
 ## [↑](#contents) Dark Web Links
 * [Deep Web Links](https://thehiddenwiki.org)
