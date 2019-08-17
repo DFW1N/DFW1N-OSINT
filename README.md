@@ -69,7 +69,7 @@ So you are making burn accounts to do your OSINT on the internet and deep web wo
 * [RecieveSMS](https://www.receivesms.org/) - *They are a service that allows you to use our free phone numbers to receive SMS online and anonymously.*
 * [Random Address Generator](https://www.fakepersongenerator.com/random-address) - *Generated addresses covering all cities and states in the United States.*
 * [SpinXO Username Generator](http://www.spinxo.com/) - *Use there username generator to combine various popular keywords with your name, words that are important to you or characterize you and your personality.*
-* [TempSMS](https://www.temp-sms.org) - * Recieve SMS online instantly using New Zealand burner mobile numbers.*
+* [TempSMS](https://www.temp-sms.org) - *Recieve SMS online instantly using New Zealand burner mobile numbers.*
 
 ## [↑](#contents) Large Free Email Providers
 This list will provide you with the largest email providers to assist you in either creating burner accounts or running email scrapes against there email domain servers on your target.
