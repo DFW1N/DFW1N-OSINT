@@ -286,4 +286,4 @@ Please Support me if this has helped you with OSINT Research or investigation by
 [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/linkedin_circle-512.png" align="left" width="30">](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/) [@Sacha Roussakis-Notter](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)
 
 
-[<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Header.png" align="centre" width="200">](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)
+[<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Header.png" align="middle" width="500">](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)
