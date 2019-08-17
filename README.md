@@ -1,6 +1,9 @@
   [![alt tag](https://media.giphy.com/media/cOX066ptkLf7xIPDhx/giphy.gif)](https://Twitter.com/Sacha_Roussakis)                          
+## DFW1N Open Source Intelligence 
 
 ## Description:
+So you want to do background checks on employees or find a missing person assist in the government in finding people this will provide you with everything you will need to speed up your process in finding background information on your target.
+
 This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made in 2019 and relates to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
 
 ## [↑](#contents) Credits
@@ -9,7 +12,7 @@ Thanks to:                                                [<img src="https://git
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
 ## 📖 Table of Contents
-- [Social Media](#social-media)
+- [OSINT Operating Systems](#-osint-operating-systems)
 - [Large Social Networks](#-Large-social-networks)
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
@@ -21,7 +24,12 @@ Thanks to:                                                [<img src="https://git
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
 - [Dark Web Links](#-dark-web-links)
 
-## Social Media
+## OSINT Operating Systems
+Below will be listed the Two best known operating systems to start conducting OSINT to scrape the wider Internet and Deep web on your target.
+
+* [Buscador OS](https://inteltechniques.com/buscador/) - *This Operating System is setup for Investigators and Ethical Hackers for OSINT purposes.*
+* [Kali Linux OS](https://www.kali.org/downloads/) - *Kali Linux Operating System is widely used by Offensive Security Teams, Hackers and Ethical Hackers.*
+
 
 ## [↑](#contents) Large Social Networks
 * [Facebook](https://www.facebook.com)
