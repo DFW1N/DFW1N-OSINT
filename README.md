@@ -256,6 +256,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 
 ## [↑](#contents) OSINT Tools
 * [Maltego](https://www.paterva.com/) - *Maltego is proprietary software used for open-source intelligence and forensics.*
+* [OSINT Framework](https://osintframework.com/) - *OSINT framework focused on gathering information from free tools or resources.*
 
 
 ## [↑](#contents) VPN Services
