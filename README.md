@@ -18,6 +18,7 @@ Thanks to:                                                [<img src="https://git
 - [Internet Browsers](#-internet-browsers)
 - [Most Visited Sites](#-most-visited-sites)
 - [Country Capital Cities](#-country-capital-cities)
+- [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
 - [Dark Web Links](#-dark-web-links)
 
 ## Social Media
@@ -48,7 +49,7 @@ This will assist you with quick references to websites that could speed up your 
 This list will be split up into main job search networks in each country.
 
 ### Australia
-* [Australian Defence Force Recruiting](https://www.defencejobs.gov.au/)
+* [Australian Defence Force Recruiting](https://www.defencejobs.gov.au/) - *Australian Defence Force Recruiting Site.* 
 * [Australian Government Job Search](https://jobsearch.gov.au/job) - *Government website for job seekers.*
 * [Seek Australia](https://www.seek.com.au/) - *You can find a wide variety of roles.*
 * [Jora Australia](https://au.jora.com/) - *You can find a wide variety of roles.*
@@ -161,6 +162,23 @@ This Section will list the most visited sites in each country the benefit of thi
 * [Canberra - Australian Capital Terrority](https://en.wikipedia.org/wiki/Canberra)
 * [Hobart - Tasmania](https://en.wikipedia.org/wiki/Hobart) 
 * [Darwin - Northern Territory](https://en.wikipedia.org/wiki/Darwin,_Northern_Territory)
+
+## [↑](#contents) Geolocation Tools & Sites
+These programs and tools can be used for OSINT Research to try get a understanding of the area and the surroundings to research the area for any clues in the surrounding area that could help with person finding.
+
+#### Tools
+* [Google Earth Pro](https://www.google.com/earth/versions/#download-pro)
+
+#### Sites
+* [Open Street Map](https://www.openstreetmap.org/)
+* [Google Earth](https://www.google.com/earth/)
+* [Maps Me (Mobile Offline Maps)](https://maps.me/)
+* [NASA WorldWind](https://worldwind.arc.nasa.gov/) - *WorldWind is an open source virtual globe API. WorldWind allows developers to quickly and easily create interactive visualizations of 3D globe, map and geographical information.*)
+* [City Mapper](https://citymapper.com/?lang=en) - *Find out what services, shops, locations etc was from the area to find details on the person.*
+* [Leaflet](https://leafletjs.com/) - *open-source JavaScript library for mobile-friendly interactive maps for developers.*
+* [IP Geolocation](https://tools.keycdn.com/geo)
+* [Whois](https://www.whois.com/whois/)
+* [API and IP Location Lookup Database](https://ipgeolocation.io/)
 
 
 ## [↑](#contents) Dark Web Links
