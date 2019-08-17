@@ -14,6 +14,9 @@ Thanks to:                                                [<img src="https://git
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
 - [Police Websites](#-police-websites)
+- [Internet Search Engines](#-internet-search-engines)
+- [Internet Browsers](#-internet-browsers)
+- [Dark Web Links](#-dark-web-links)
 
 ## Social Media
 
@@ -64,12 +67,48 @@ This section is dedicated to each country to assist in quickly finding all polic
 
 ## Australia
 * [New South Wales Police Force](https://www.police.nsw.gov.au/) - *Australian New South Wales Police Force Website.*
-* [Queensland Police Force](https://www.police.qld.gov.au/) - *Australian Queensland Force Website.*
+* [Queensland Police Force](https://www.police.qld.gov.au/) - *Australian Queensland Police Force Website.*
 * [South Australia Police Force](https://www.police.sa.gov.au/) - *Australian South Australia Police Force Website.*
 * [Western Australia Police Force](https://www.police.wa.gov.au/) - *Australian Western Australia Police Force Website.*
 * [Victorian Police Force](https://www.police.vic.gov.au/) - *Australian Victorian Police Force Website.*
 * [Northern Terrority Police Force](https://www.police.vic.gov.au/) - *Australian Northern Terrority Police Force Website.*
 * [Australian Federal Police](https://www.afp.gov.au/) - *Australian Federal Police Website.*
+
+## [↑](#contents) Internet Search Engines
+List known search engines used to browse the internet.
+
+* [Google](https://www.google.com)
+* [Bing](https://www.bing.com)
+* [Ask](http://www.ask.com)
+* [Yahoo](http://www.yahoo.com)
+* [DuckDuckGo](https://duckduckgo.com)
+* [Aol](http://search.aol.com)
+* [Search.com](http://www.search.com)
+* [Shodan](https://www.shodan.io) - *Shodan is a search engine that lets the user find specific Internet of Things connected to the internet.*
+* [ZoomEye](https://www.zoomeye.org/) - *Search engine for Cyberspace Searches.*
+* [SurfCanyon](http://www.surfcanyon.com)
+* [Lycos](http://www.lycos.com)
+* [Dothop](http://dothop.com)
+* [Gigablast](http://gigablast.com)
+
+## [↑](#contents) Internet Browsers
+This section will list known Internet Browsers.
+
+* [Opera](http://www.opera.com)
+* [Chrome](https://www.google.com/chrome)
+* [Safari](http://www.apple.com/safari)
+* [Torch](http://www.torchbrowser.com)
+* [Firefox](https://www.mozilla.org)
+* [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
+* [Coowon](http://coowon.com)
+* [Brave](https://brave.com)
+* [Yandex Browser](https://browser.yandex.com/desktop/main)
+* [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that allows you to access the Dark Web without being tracked mainly used to browse the deep web or stay annonymous online.
+
+## [↑](#contents) Dark Web Links
+* [Deep Web Links](https://thehiddenwiki.org)
+
 
  # Donate
  Bitcoin:
