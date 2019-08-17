@@ -78,6 +78,7 @@ This list will provide you with the largest email providers to assist you in eit
 * [Zoho Mail](https://www.zoho.com/mail/) - *Zoho Mail is part of a larger office productivity suite.*
 * [GMX Mail](https://www.gmx.com/) - *One of Germany’s largest internet service providers used as @gmx.com & @gmx.ch.
 * [Yahoo Mail](https://login.yahoo.com/?.src=ym&lang=&done=https%3A%2F%2Fau.mail.yahoo.com%2F) - *Yahoo! Mail had 281 million users, making it the third largest web-based email service in the world.*
+* [Mailinator](https://www.mailinator.com/) - *The Mailinator Email System puts millions of inboxes right at your fingertips. It is an amazing Email Workflow Testing tool for your Software or Service, great use for throw away burn emails.*
 
 ## [↑](#contents) Large Social Networks
 * [Facebook](https://www.facebook.com)
@@ -332,6 +333,7 @@ Below will be well known VPN Services to keep you annonymous online and to ensur
 * [NordVPN](https://nordvpn.com/)
 * [TunnelBear](https://www.tunnelbear.com/)
 * [IPVanish](https://www.ipvanish.com/)
+* [Private Internet Access VPN](https://www.privateinternetaccess.com/) - *Packages starting at $3.33/mo.*
 
 *There are many other VPN Services this is just a handful look around find one that is right for you.*
 
