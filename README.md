@@ -9,6 +9,7 @@ This List is in progress and will be a list specificually on OSINT tools in 2019
 - [Large Social Networks](#-Large-social-networks)
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
+- [Police Websites](#-police-websites)
 
 ## Social Media
 
@@ -25,6 +26,7 @@ This List is in progress and will be a list specificually on OSINT tools in 2019
 This list will be split up into main job search networks in each country.
 
 ## Australia
+* [Australian Defence Force Recruiting](https://www.defencejobs.gov.au/)
 * [Australian Government Job Search](https://jobsearch.gov.au/job) - *Government website for job seekers.*
 * [Seek Australia](https://www.seek.com.au/) - *You can find a wide variety of roles.*
 * [Jora Australia](https://au.jora.com/) - *You can find a wide variety of roles.*
@@ -51,6 +53,18 @@ This list will be split up into main job search networks in each country.
 ## America
 
 ## Canada 
+
+## [↑](#contents) Police Websites
+This section is dedicated to each country to assist in quickly finding all police sites relating to your country.
+
+## Australia
+* [New South Wales Police Force](https://www.police.nsw.gov.au/)
+* [Queensland Police Force](https://www.police.qld.gov.au/)
+* [South Australia Police Force](https://www.police.sa.gov.au/)
+* [Western Australia Police Force](https://www.police.wa.gov.au/)
+* [Victorian Police Force](https://www.police.vic.gov.au/)
+* [Northern Terrority Police Force](https://www.police.vic.gov.au/)
+* [Australian Federal Police](https://www.afp.gov.au/)
 
 ## [↑](#contents) Credits
 [DFW1N](https://github.com/DFW1N)
