@@ -20,6 +20,7 @@ Thanks to:                                                [<img src="https://git
 - [Police Websites](#-police-websites)
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
+- [Best Browser Add-ons for OSINT](#-best-browser-add-ons-for-osint)
 - [Most Visited Sites](#-most-visited-sites)
 - [Australian Capital Cities](#-country-capital-cities)
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
@@ -124,6 +125,27 @@ List known search engines used to browse the internet.
 * [Lycos](http://www.lycos.com)
 * [Dothop](http://dothop.com)
 * [Gigablast](http://gigablast.com)
+
+## [↑](#contents) Best Browser Add-ons for OSINT
+
+### Mozilla Firefox
+* [Nimbus Screen Capture](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/?) - *Capture the entire browser window including scrolling function.*
+* [Ip Address and Domain Information](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/) - *See detailed information about every IP Address, Domain Name and Provider.*
+* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?) - * lets you keep parts of your online life separated into color-coded tabs.*
+* [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) - *Make the web faster, more private, and more secure.)
+* [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/?) - *Allow active content to run only from sites you trust, and protect yourself against XSS other web security exploits.*
+* [Resurrect Pages](https://addons.mozilla.org/en-US/firefox/addon/resurrect-pages/?) - *Dead pages, broken links, the scourge of the internet.*
+* [Exif Viewer](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/?) - *Displays the Exif and IPTC data in local and remote JPEG images.*
+* [Google Translator for Firefox](https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox/) - *Translate languages on webpages.*
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - *Finally, an efficient blocker. Easy on CPU and memory.*
+
+### Google Chrome
+* [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US) - *Blocks Ads.*
+* [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en-US) - *Take Webpage Screenshots.*
+* [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Tells you whether or not it’s on Reddit.*
+* [Distill Web Monitor](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en-US) - *Distill runs in your browser to check monitored pages for changes. Get instant alerts as soon as a change is detected.*
+* [Treeverse](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila?hl=en-US) - *It takes a conversation on Twitter and breaks it down into a hierarchical tree and tells you who is talking to who and where the connections are.*
+
 
 ## [↑](#contents) Internet Browsers
 This section will list known Internet Browsers.
