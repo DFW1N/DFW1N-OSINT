@@ -4,7 +4,7 @@
 ## Description:
 So you want to do background checks on employees or find a missing person assist in the government finding people this will provide you with plenty of information to get you started this will speed up your process in finding information on your target.
 
-This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made in 2019 and relates to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
+This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made for the upcoming The AustCyber Canberra Innovation Node that partnered with the Australian Federal Police, the National Missing Persons Coordination Centre and Trace Labs to conduct a missing person capture the flag (CTF) event (aka Hackathon) this list is designed for Australians who want a quick and easy list for the event to assist them with most resources relating to Australia and the interest to the Australian Society and Community.
 
 ## [↑](#contents) Credits
 Contributor:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
