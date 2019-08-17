@@ -27,6 +27,7 @@ Contributor:                                                [<img src="https://g
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
 - [Online Alerts](#-online-alerts)
+- [Email Data Dump](#-email-data-dump)
 - [Police Websites](#-police-websites)
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
@@ -188,6 +189,11 @@ Specifically use these to get alerts when somthing changes or is posted with spe
 * [Meltwater](https://www.meltwater.com/au/) - *Social and marketing teams go beyond media monitoring. Try Monitoring your targets bussiness or organisation.*
 * [PasteLert](https://andrewmohawk.com/pasteLert/) - *Set up alerts (like google alerts) for pastebin.com entries.*
 * [VisualPing](https://visualping.io/) - *Select an area and relax: We’ll send you an email alert when something changes.*
+
+## [↑](#contents) Email Data Dumps
+Assuming you have know or have obtained your targets email you can always check if there email has been compromised which results in Email data dump and password dumps and what if you got a encrypted text relating to the password data dump use the tools I list below to help you with getting the informaiton on your target or even yourself. 
+* [Haveibeenpwned](https://haveibeenpwned.com/) - *Check if you have an account that has been compromised in a data breach*
+* [MD5 Decryption and Encryption](https://md5decrypt.net/en/) - *Decrypt MD5 Hashes this website also provides many other decryption tools such as Sha512 decryption, Sha256, Morse Code Decryption etc.*
 
 ## [↑](#contents) Police Websites
 This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all police sites in one place for quick access to information or policies you are looking for or leads on your targets.
