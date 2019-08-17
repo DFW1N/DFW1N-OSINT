@@ -29,6 +29,8 @@ Thanks to:                                                [<img src="https://git
 ## [↑](#contents) Introduction
 I have created this for the purposes of Open Source Intelligence Gathering known as (OSINT) this is a guide and cheat sheet or just somthing you can use to speed up your process for Background Checks, Employee Information Scraping, Finding Missing People and much more this list would benefit, Government Agencies, Recruiting Officers, Employees, Managers, Police Services, Intelligence Services and more this has been targeted towards OSINT in Australia only for finding missing people and other reasons.
 
+Start by downloading a OSINT Operating System (OS), create burner accounts for all social media platforms so you do not use your real information as websites sometimes show who has been on there profile or similar use a VPN or even if your doing it for a short time use a free VPN but dont be sure to rely on free VPN services you get what you pay for and use this list to assist in finding OSINT information on your target good luck.
+
 ## [↑](#contents) OSINT Operating Systems
 Below will be listed the Two best known operating systems to start conducting OSINT to scrape the wider Internet and Deep web on your target.
 
