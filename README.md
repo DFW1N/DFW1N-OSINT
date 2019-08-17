@@ -92,7 +92,7 @@ This will assist you with quick references to websites that could speed up your 
 * [Australian War Memorial](https://www.awm.gov.au/collection/understanding-the-memorials-collection/researching-a-person) - *Research a Person who may have information on there history in Australian military records.*
 
 ## [↑](#contents) Job Search Networks
-This list will be split up into main job search networks in each country.
+This list is the main job search networks used in Australia to find job employment did your target recently apply for a job on any of these sites before they went missing or maybe you want to find out information about companies your doing OSINT research on.
 
 ### Australia
 * [Australian Defence Force Recruiting](https://www.defencejobs.gov.au/) - *Australian Defence Force Recruiting Site.* 
