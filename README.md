@@ -173,7 +173,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [Open Street Map](https://www.openstreetmap.org/)
 * [Google Earth](https://www.google.com/earth/)
 * [Maps Me (Mobile Offline Maps)](https://maps.me/)
-* [NASA WorldWind](https://worldwind.arc.nasa.gov/) - *WorldWind is an open source virtual globe API. WorldWind allows developers to quickly and easily create interactive visualizations of 3D globe, map and geographical information.*)
+* [NASA WorldWind](https://worldwind.arc.nasa.gov/) - *WorldWind is an open source virtual globe API.*)
 * [City Mapper](https://citymapper.com/?lang=en) - *Find out what services, shops, locations etc was from the area to find details on the person.*
 * [Leaflet](https://leafletjs.com/) - *open-source JavaScript library for mobile-friendly interactive maps for developers.*
 * [IP Geolocation](https://tools.keycdn.com/geo)
