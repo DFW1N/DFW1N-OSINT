@@ -20,6 +20,7 @@ Contributor:                                                [<img src="https://g
 - [Online Fake Identification](#-online-fake-identification)
 - [Large Free Email Providers](#-Large-free-email-providers)
 - [Large Social Networks](#-Large-social-networks)
+- [Social Media OSINT Tools](#-social-media-osint-tools)
 - [Australian Dating Networks](#-australian-dating-networks)
 - [Username Identifiers](#-username-identifiers)
 - [Person Investigations](#-person-investigations)
@@ -80,6 +81,15 @@ This list will provide you with the largest email providers to assist you in eit
 * [WhatsApp](https://www.whatsapp.com/)
 * [Facebook Messenger](https://www.messenger.com/)
 
+## [↑](#contents) Social Media OSINT Tools
+
+### Facebook Tools
+* [Facebook Search Basics](http://search.fb.com/) - *Learn to use Facebook Search take advantage of it to find out data on your target.*
+* [Facebook ID Identifier](https://lookup-id.com/) - *Lookup-ID.com helps you to find the Facebook ID for your profile or a Group.*
+* [Facebook Information Publisher](http://zesty.ca/facebook/) - *What does Facebook publish about you and your friends?*
+* [Facebook Social Monitoring](https://www.fanpagekarma.com/social-monitoring) - *People are talking about you, your brand and your industry
+all around the social web. Fanpage Karma Social Monitoring
+shows you, what they are talking about.*
 
 ## [↑](#contents) Australian Dating Networks
 You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
