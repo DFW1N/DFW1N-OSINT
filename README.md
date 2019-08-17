@@ -15,7 +15,9 @@ Thanks to:                                                [<img src="https://git
 - [Introduction](#-introduction)
 - [OSINT Operating Systems](#-osint-operating-systems)
 - [Virtual Machines](#-virtual-machines)
+- [Large Free Email Providers](#-Large-free-email-providers)
 - [Large Social Networks](#-Large-social-networks)
+- [Australian Dating Networks](#-australian-dating-networks)
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
 - [Police Websites](#-police-websites)
@@ -43,11 +45,32 @@ Below will be listed the Two best known operating systems to start conducting OS
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
 * [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a proffesional version you can purchase if you prefer the proffesional version over the free version.*
 
+## [↑](#contents) Large Free Email Providers
+This list will provide you with the largest email providers to assist you in either creating burner accounts or running email scrapes against there email domain servers on your target.
+* [Protonmail](https://protonmail.com/) - *This Email Provider is based in Switzerland and has encryption protection used as @protonmail.com.*
+* [Outlook Live](https://outlook.live.com/owa/) - *Used as @outlook.com @hotmail.*
+* [iCloud](https://www.icloud.com/#mail) - *Most Mac, iPad, and iPhone users have an account used as @icloud.com.*
+* [Zoho Mail](https://www.zoho.com/mail/) - *Zoho Mail is part of a larger office productivity suite.*
+* [GMX Mail](https://www.gmx.com/) - *One of Germany’s largest internet service providers used as @gmx.com & @gmx.ch.
+* [Yahoo Mail](https://login.yahoo.com/?.src=ym&lang=&done=https%3A%2F%2Fau.mail.yahoo.com%2F) - *Yahoo! Mail had 281 million users, making it the third largest web-based email service in the world.*
+
 ## [↑](#contents) Large Social Networks
 * [Facebook](https://www.facebook.com)
 * [Twitter](https://www.twitter.com)
 * [LinkedIn](https://www.linkedin.com)
-* [Tinder](https://www.gotinder.com)
+
+## [↑](#contents) Australian Dating Networks
+You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
+* [Tinder](https://www.tinder.com)
+* [eharmony Australia](https://www.eharmony.com.au/)
+* [RSVP](https://www.rsvp.com.au/)
+* [Plenty of Fish](https://www.pof.com/personals/25644onlinedating.htm)
+* [Elite Singles](https://www.elitesingles.com.au/)
+* [Match Australia](https://au.match.com/dnws/cpx/intl/match/IndexPage/)
+* [OKCupid](https://www.okcupid.com/)
+* [Bumble Dating App](https://bumble.com)
+* [Oasis.com](https://www.oasis.com/)
+
 
 
 ## [↑](#contents) Person Investigations
