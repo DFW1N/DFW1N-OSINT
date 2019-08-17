@@ -91,6 +91,13 @@ This list will provide you with the largest email providers to assist you in eit
 all around the social web. Fanpage Karma Social Monitoring
 shows you, what they are talking about.*
 
+### Twitter Tools
+* [Twitter Search Basics](http://search.twitter.com)
+* [Twitter Search Advanced](https://twitter.com/search-advanced?lang=en)
+* [Obtain Twitter IDs](http://gettwitterid.com)
+* [Audit Twitter Followers](https://www.twitteraudit.com) - *Find out how many of your targets followers are real are they buying twitter followers?*
+* [Find Twitter First Follower](https://socialrank.com/firstfollower) - *Who was your targets first follower or maybe yours?*
+
 ## [↑](#contents) Australian Dating Networks
 You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
 * [Tinder](https://www.tinder.com)
