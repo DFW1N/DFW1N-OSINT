@@ -15,9 +15,11 @@ Thanks to:                                                [<img src="https://git
 - [Introduction](#-introduction)
 - [OSINT Operating Systems](#-osint-operating-systems)
 - [Virtual Machines](#-virtual-machines)
+- [Online Fake Identification](#-online-fake-identification)
 - [Large Free Email Providers](#-Large-free-email-providers)
 - [Large Social Networks](#-Large-social-networks)
 - [Australian Dating Networks](#-australian-dating-networks)
+- [Username Identifiers](#-username-identifiers)
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
 - [Online Alerts](#-online-alerts)
@@ -47,6 +49,15 @@ Below will be listed the Two best known operating systems to start conducting OS
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
 * [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a proffesional version you can purchase if you prefer the proffesional version over the free version.*
 
+## [↑](#contents) Online Fake Identification
+So you are making burn accounts to do your OSINT on the internet and deep web wouldnt it be easy for you to create a quick easy fake identity online to save to a notepad to remember your fake address, username, email, burner phone numbers these websites will assist you in creating a fake identity in a matter of minutes to help with OSINT on burn accounts.
+* [Burner Mobile Numbers](https://www.mytrashmobile.com/numbers) - *mobile numbers to verify yourself to any service as Facebook or WhatsApp.*
+* [New York Address Generator](https://www.randomlists.com/new-york-addresses) - *Use generated Addresses for your online fake identity to sign up to sites.*
+* [Burner](https://www.burnerapp.com/) - *Burner is the original second phone number app for calling, texting and picture messaging, however this isnt free.*
+* [RecieveSMS](https://www.receivesms.org/) - *They are a service that allows you to use our free phone numbers to receive SMS online and anonymously.*
+* [Random Address Generator](https://www.fakepersongenerator.com/random-address) - *Generated addresses covering all cities and states in the United States.*
+* [SpinXO Username Generator](http://www.spinxo.com/) - *Use there username generator to combine various popular keywords with your name, words that are important to you or characterize you and your personality.*
+
 ## [↑](#contents) Large Free Email Providers
 This list will provide you with the largest email providers to assist you in either creating burner accounts or running email scrapes against there email domain servers on your target.
 * [Protonmail](https://protonmail.com/) - *This Email Provider is based in Switzerland and has encryption protection used as @protonmail.com.*
@@ -60,6 +71,11 @@ This list will provide you with the largest email providers to assist you in eit
 * [Facebook](https://www.facebook.com)
 * [Twitter](https://www.twitter.com)
 * [LinkedIn](https://www.linkedin.com)
+* [Instagram](https://www.instagram.com)
+* [Reddit](https://www.reddit.com)
+* [Pinterest](https://www.pinterest.com)
+* [Tumblr](https://www.tumblr.com)
+
 
 ## [↑](#contents) Australian Dating Networks
 You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
@@ -73,6 +89,11 @@ You may find informaiton on your target on these dating websites or find them li
 * [Bumble Dating App](https://bumble.com)
 * [Oasis.com](https://www.oasis.com/)
 
+## [↑](#contents) Username Identifiers
+The person you are searching do you know the username they go under like on reddit, xbox, playstation, steam here are some links that scan through sites to find what sites they are registered on.
+* [Knowem](http://www.Knowem.com) - *Searches for usernames on social media sites.*
+* [User Search](http://www.usersearch.org) - *Searches for usernames on social media sites.*
+* [Xbox Username Checker](https://www.xboxgamertag.com/) - *Search for you're targets gamer tag on xbox when was the last time they where online?*
 
 
 ## [↑](#contents) Person Investigations
@@ -133,6 +154,7 @@ Specifically use these to get alerts when somthing changes or is posted with spe
 * [Talkwalker Alerts](https://www.talkwalker.com/alerts) - *Monitor the Web for interesting new content about your name, brand, competitors, events or any favorite topic with Talkwalker Alerts!*
 * [Meltwater](https://www.meltwater.com/au/) - *Social and marketing teams go beyond media monitoring. Try Monitoring your targets bussiness or organisation.*
 * [PasteLert](https://andrewmohawk.com/pasteLert/) - *Set up alerts (like google alerts) for pastebin.com entries.*
+* [VisualPing](https://visualping.io/) - *Select an area and relax: We’ll send you an email alert when something changes.*
 
 ## [↑](#contents) Police Websites
 This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all police sites in one place for quick access to information or policies you are looking for or leads on your targets.
