@@ -17,6 +17,7 @@ Thanks to:                                                [<img src="https://git
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
 - [Most Visited Sites](#-most-visited-sites)
+- [Country Capital Cities](#-country-capital-cities)
 - [Dark Web Links](#-dark-web-links)
 
 ## Social Media
@@ -147,6 +148,10 @@ This Section will list the most visited sites in each country the benefit of thi
 * [Gumtree Australia](https://www.gumtree.com.au)
 * [NTD News](https://www.ntd.com/)
 * [Apple Australia](https://www.apple.com/au/)
+
+## [↑](#contents) Country Capital Cities
+
+# Australia
 
 ## [↑](#contents) Dark Web Links
 * [Deep Web Links](https://thehiddenwiki.org)
