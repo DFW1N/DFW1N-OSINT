@@ -93,6 +93,7 @@ This section is dedicated to each country to assist in quickly finding all polic
 * [Victorian Police Force](https://www.police.vic.gov.au/) - *Australian Victorian Police Force Website.*
 * [Northern Territory Police Force](https://www.police.vic.gov.au/) - *Australian Northern Territory Police Force Website.*
 * [Australian Federal Police](https://www.afp.gov.au/) - *Australian Federal Police Website.*
+* [Tasmanian Police Force](https://www.police.tas.gov.au/) - *Tasmanian Police Force Website.*
 
 ## [↑](#contents) Internet Search Engines
 List known search engines used to browse the internet.
