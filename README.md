@@ -40,7 +40,8 @@ Below will be listed the Two best known operating systems to start conducting OS
 * [Kali Linux OS](https://www.kali.org/downloads/) - *Kali Linux Operating System is widely used by Offensive Security Teams, Hackers and Ethical Hackers.*
 
 ## [↑](#contents) Virtual Machines
-* [VirtualBox](https://www.virtualbox.org/) - These Virtual Machines are compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/)
+* [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
+* [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a proffesional version you can purchase if you prefer the proffesional version over the free version.*
 
 ## [↑](#contents) Large Social Networks
 * [Facebook](https://www.facebook.com)
