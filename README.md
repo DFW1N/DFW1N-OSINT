@@ -54,7 +54,7 @@ Below will be listed the Two best known operating systems to start conducting OS
 * [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a professional version you can purchase if you prefer the professional version over the free version.*
 
 ## [↑](#contents) Live Cams Australia
-Have you seen anything suspiouis happening in these live cams streaming all around Australia?
+Have you seen anything suspicious happening in these live cams streaming all around Australia?
 * [Live View of Sydney Harbour](https://webcamsydney.com/) - *Live Cam over Sydney Harbour*
 * [Live View of Quay West Sydney](https://www.quaywestsuitessydney.com.au/webcam-en.html) - *See anything suspicious happening you can go back and forward on the footage you may find what your looking for.*
 * [Sydney Cameras Live](https://www.webcams.travel/webcam/1179853135-Weather-Sydney-Harbour%2C-Australia-Sydney-CBD) - *View Multiple or watch footage that happend throughout the day you may find what your searching for.*
