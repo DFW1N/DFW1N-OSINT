@@ -1,14 +1,14 @@
   [![alt tag](https://media.giphy.com/media/cOX066ptkLf7xIPDhx/giphy.gif)](https://Twitter.com/Sacha_Roussakis)                          
 
-# Description:
+## Description:
 This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made in 2019 and relates to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
 
-# [↑](#contents) Credits
+## [↑](#contents) Credits
 Thanks to:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
 
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
-# 📖 Table of Contents
+## 📖 Table of Contents
 - [Social Media](#social-media)
 - [Large Social Networks](#-Large-social-networks)
 - [Person Investigations](#-person-investigations)
@@ -20,19 +20,19 @@ Thanks to:                                                [<img src="https://git
 - [Country Capital Cities](#-country-capital-cities)
 - [Dark Web Links](#-dark-web-links)
 
-# Social Media
+## Social Media
 
-# [↑](#contents) Large Social Networks
+## [↑](#contents) Large Social Networks
 * [Facebook](https://www.facebook.com)
 * [Twitter](https://www.twitter.com)
 * [LinkedIn](https://www.linkedin.com)
 * [Tinder](https://www.gotinder.com)
 
 
-# [↑](#contents) Person Investigations
+## [↑](#contents) Person Investigations
 This will assist you with quick references to websites that could speed up your research on people.
 
-## Australia
+### Australia
 * [White Pages (AU)](https://www.whitepages.com.au/residential)
 * [People Search (Australia)](http://www.peoplesearch.com.au)
 * [facesearch](http://facesaerch.com) - Search for images of a person by name.
@@ -44,10 +44,10 @@ This will assist you with quick references to websites that could speed up your 
 * [Wink](http://itools.com/tool/wink-people-search)
 * [Switchboard](http://www.switchboard.com)
 
-# [↑](#contents) Job Search Networks
+## [↑](#contents) Job Search Networks
 This list will be split up into main job search networks in each country.
 
-## Australia
+### Australia
 * [Australian Defence Force Recruiting](https://www.defencejobs.gov.au/)
 * [Australian Government Job Search](https://jobsearch.gov.au/job) - *Government website for job seekers.*
 * [Seek Australia](https://www.seek.com.au/) - *You can find a wide variety of roles.*
@@ -55,6 +55,7 @@ This list will be split up into main job search networks in each country.
 * [New South Wales Government Job Search](https://iworkfor.nsw.gov.au/) - *Jobs in the New South Wales Government.*
 * [Queensland Government Job Search](https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904) - *Queensland Government Jobs.*
 * [Victorian Government Job Search](https://www.careers.vic.gov.au/) - *Jobs in Victorian Government.*
+* [Tasmanian Government Job Search](https://www.jobs.tas.gov.au/) - *Jobs in Tasmanian Government.*
 * [South Australia Government Job Search](https://iworkfor.sa.gov.au/) - *Jobs in South Australian Government.*
 * [Northern Terrority Government Job Search](https://jobs.nt.gov.au/Home/Search) - *Jobs in Northern Terrority Government.*
 * [Western Australia Government Job Search](https://search.jobs.wa.gov.au/) - *Jobs in Western Australia Government.*
@@ -76,23 +77,23 @@ This list will be split up into main job search networks in each country.
 * [Gumtree Jobs Australia](https://www.gumtree.com.au/jobs) - *Jobs posted by organisations, Recruiters, Managers, Owners and more.*
 * [Neuvoo Australia](https://au.neuvoo.com/) - *You can look for jobs based on city, state, region, industry, company, and skills.*
 
-## America
+### America
 
-## Canada 
+### Canada 
 
-# [↑](#contents) Police Websites
+## [↑](#contents) Police Websites
 This section is dedicated to each country to assist in quickly finding all police sites relating to your country.
 
-## Australia
+### Australia
 * [New South Wales Police Force](https://www.police.nsw.gov.au/) - *Australian New South Wales Police Force Website.*
 * [Queensland Police Force](https://www.police.qld.gov.au/) - *Australian Queensland Police Force Website.*
 * [South Australia Police Force](https://www.police.sa.gov.au/) - *Australian South Australia Police Force Website.*
 * [Western Australia Police Force](https://www.police.wa.gov.au/) - *Australian Western Australia Police Force Website.*
 * [Victorian Police Force](https://www.police.vic.gov.au/) - *Australian Victorian Police Force Website.*
-* [Northern Terrority Police Force](https://www.police.vic.gov.au/) - *Australian Northern Terrority Police Force Website.*
+* [Northern Territory Police Force](https://www.police.vic.gov.au/) - *Australian Northern Territory Police Force Website.*
 * [Australian Federal Police](https://www.afp.gov.au/) - *Australian Federal Police Website.*
 
-# [↑](#contents) Internet Search Engines
+## [↑](#contents) Internet Search Engines
 List known search engines used to browse the internet.
 
 * [Google](https://www.google.com)
@@ -109,7 +110,7 @@ List known search engines used to browse the internet.
 * [Dothop](http://dothop.com)
 * [Gigablast](http://gigablast.com)
 
-# [↑](#contents) Internet Browsers
+## [↑](#contents) Internet Browsers
 This section will list known Internet Browsers.
 
 * [Opera](http://www.opera.com)
@@ -124,10 +125,10 @@ This section will list known Internet Browsers.
 * [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that allows you to access the Dark Web without being tracked mainly used to browse the deep web or stay annonymous online.
 
-# [↑](#contents) Most Visited Sites
+## [↑](#contents) Most Visited Sites
 This Section will list the most visited sites in each country the benefit of this list will give you quick access to sites you could use to scrape for usernames or emails registered to it to locate or find information on people.
 
-## Australia
+### Australia
 * [Youtube](https://www.youtube.com/)
 * [Facebook](https://www.facebook.com/)
 * [Wikipedia](https://www.wikipedia.org/)
@@ -149,13 +150,22 @@ This Section will list the most visited sites in each country the benefit of thi
 * [NTD News](https://www.ntd.com/)
 * [Apple Australia](https://www.apple.com/au/)
 
-# [↑](#contents) Country Capital Cities
+## [↑](#contents) Country Capital Cities
 
-# Australia
+### Australia
+* [Sydney - New South Wales](https://en.wikipedia.org/wiki/Sydney)
+* [Melbourne - Victoria](https://en.wikipedia.org/wiki/Melbourne)
+* [Brisbane - Queensland](https://en.wikipedia.org/wiki/Brisbane)
+* [Perth - Western Australia](https://en.wikipedia.org/wiki/Perth)
+* [Adelaide - South Australia](https://en.wikipedia.org/wiki/Darwin,_Northern_Territory)
+* [Canberra - Australian Capital Terrority](https://en.wikipedia.org/wiki/Canberra)
+* [Hobart - Tasmania](https://en.wikipedia.org/wiki/Hobart) 
+* [Darwin - Northern Territory](https://en.wikipedia.org/wiki/Darwin,_Northern_Territory)
 
-# [↑](#contents) Dark Web Links
+
+## [↑](#contents) Dark Web Links
 * [Deep Web Links](https://thehiddenwiki.org)
 
 
- # Donate
+## Donate
  Bitcoin:
