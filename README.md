@@ -1,14 +1,14 @@
   [![alt tag](https://media.giphy.com/media/cOX066ptkLf7xIPDhx/giphy.gif)](https://Twitter.com/Sacha_Roussakis)                          
 
-## Description:
+# Description:
 This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made in 2019 and relates to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
 
-## [↑](#contents) Credits
+# [↑](#contents) Credits
 Thanks to:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
 
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
-## 📖 Table of Contents
+# 📖 Table of Contents
 - [Social Media](#social-media)
 - [Large Social Networks](#-Large-social-networks)
 - [Person Investigations](#-person-investigations)
@@ -20,16 +20,16 @@ Thanks to:                                                [<img src="https://git
 - [Country Capital Cities](#-country-capital-cities)
 - [Dark Web Links](#-dark-web-links)
 
-## Social Media
+# Social Media
 
-## [↑](#contents) Large Social Networks
+# [↑](#contents) Large Social Networks
 * [Facebook](https://www.facebook.com)
 * [Twitter](https://www.twitter.com)
 * [LinkedIn](https://www.linkedin.com)
 * [Tinder](https://www.gotinder.com)
 
 
-## [↑](#contents) Person Investigations
+# [↑](#contents) Person Investigations
 This will assist you with quick references to websites that could speed up your research on people.
 
 ## Australia
@@ -44,7 +44,7 @@ This will assist you with quick references to websites that could speed up your 
 * [Wink](http://itools.com/tool/wink-people-search)
 * [Switchboard](http://www.switchboard.com)
 
-## [↑](#contents) Job Search Networks
+# [↑](#contents) Job Search Networks
 This list will be split up into main job search networks in each country.
 
 ## Australia
@@ -80,7 +80,7 @@ This list will be split up into main job search networks in each country.
 
 ## Canada 
 
-## [↑](#contents) Police Websites
+# [↑](#contents) Police Websites
 This section is dedicated to each country to assist in quickly finding all police sites relating to your country.
 
 ## Australia
@@ -92,7 +92,7 @@ This section is dedicated to each country to assist in quickly finding all polic
 * [Northern Terrority Police Force](https://www.police.vic.gov.au/) - *Australian Northern Terrority Police Force Website.*
 * [Australian Federal Police](https://www.afp.gov.au/) - *Australian Federal Police Website.*
 
-## [↑](#contents) Internet Search Engines
+# [↑](#contents) Internet Search Engines
 List known search engines used to browse the internet.
 
 * [Google](https://www.google.com)
@@ -109,7 +109,7 @@ List known search engines used to browse the internet.
 * [Dothop](http://dothop.com)
 * [Gigablast](http://gigablast.com)
 
-## [↑](#contents) Internet Browsers
+# [↑](#contents) Internet Browsers
 This section will list known Internet Browsers.
 
 * [Opera](http://www.opera.com)
@@ -124,7 +124,7 @@ This section will list known Internet Browsers.
 * [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that allows you to access the Dark Web without being tracked mainly used to browse the deep web or stay annonymous online.
 
-## [↑](#contents) Most Visited Sites
+# [↑](#contents) Most Visited Sites
 This Section will list the most visited sites in each country the benefit of this list will give you quick access to sites you could use to scrape for usernames or emails registered to it to locate or find information on people.
 
 ## Australia
@@ -149,11 +149,11 @@ This Section will list the most visited sites in each country the benefit of thi
 * [NTD News](https://www.ntd.com/)
 * [Apple Australia](https://www.apple.com/au/)
 
-## [↑](#contents) Country Capital Cities
+# [↑](#contents) Country Capital Cities
 
 # Australia
 
-## [↑](#contents) Dark Web Links
+# [↑](#contents) Dark Web Links
 * [Deep Web Links](https://thehiddenwiki.org)
 
 
