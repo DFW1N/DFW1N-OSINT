@@ -2,7 +2,7 @@
 ## DFW1N Open Source Intelligence 
 
 ## Description:
-So you want to do background checks on employees or find a missing person assist in the government in finding people this will provide you with everything you will need to speed up your process in finding background information on your target.
+So you want to do background checks on employees or find a missing person assist in the government finding people this will provide you with plenty of information to get you started this will speed up your process in finding information on your target.
 
 This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made in 2019 and relates to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
 
