@@ -104,7 +104,7 @@ This list will provide you with the largest email providers to assist you in eit
 all around the social web. Fanpage Karma Social Monitoring
 shows you, what they are talking about.*
 * [ExtractFace](https://sourceforge.net/projects/extractface/) - *Investigators, researchers or other analysts often have to get local copies of Facebook data.*
-* [Facebook Sleep Status](https://github.com/sqren/fb-sleep-stats) - *A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern.* [<img src="https://cloud.githubusercontent.com/assets/209966/13382859/b7b31aa4-de7e-11e5-8fca-35d68fe2f02f.png" align="right" width="100">](https://github.com/sqren/fb-sleep-stats)
+* [Facebook Sleep Status](https://github.com/sqren/fb-sleep-stats) - *A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern.* [<img src="https://cloud.githubusercontent.com/assets/209966/13382859/b7b31aa4-de7e-11e5-8fca-35d68fe2f02f.png" align="left" width="250">](https://github.com/sqren/fb-sleep-stats)
 
 ### Twitter Tools
 * [Twitter Search Basics](http://search.twitter.com)
