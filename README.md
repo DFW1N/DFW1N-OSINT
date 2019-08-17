@@ -25,28 +25,28 @@ This List is in progress and will be a list specificually on OSINT tools in 2019
 This list will be split up into main job search networks in each country.
 
 ## Australia
-* [Australian Government Job Search](https://jobsearch.gov.au/job)
-* [Seek Australia](https://www.seek.com.au/)
-* [Jora Australia](https://au.jora.com/)
-* [New South Wales Government Job Search](https://iworkfor.nsw.gov.au/)
-* [Queensland Government Job Search](https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904)
-* [South Australia Government Job Search](https://iworkfor.sa.gov.au/)
-* [Northern Terrority Government Job Search](https://jobs.nt.gov.au/Home/Search)
-* [Western Australia Government Job Search](https://search.jobs.wa.gov.au/)
-* [Australian Capital Territory Job Search](https://www.jobs.act.gov.au/)
-* [All Jobs Australia](https://www.alljobs.com.au/)
-* [LinkedIn](https://www.linkedin.com/feed/)
-* [Australian Public Service Job Search](https://www.apsjobs.gov.au/)
-* [CareerOne Australia](https://www.careerone.com.au/)
-* [GradConnection Australia](https://au.gradconnection.com/)
-* [Indeed Australia](https://au.indeed.com/)
-* [Job Seeker Australia](https://www.jobseeker.org.au/)
-* [SpotJobs Australia](https://www.spotjobs.com/)
+* [Australian Government Job Search](https://jobsearch.gov.au/job) - *Government website for job seekers.*
+* [Seek Australia](https://www.seek.com.au/) - *You can find a wide variety of roles.*
+* [Jora Australia](https://au.jora.com/) - *You can find a wide variety of roles.*
+* [New South Wales Government Job Search](https://iworkfor.nsw.gov.au/) - *Jobs in the New South Wales Government.*
+* [Queensland Government Job Search](https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904) - *QLD Government Jobs
+* [South Australia Government Job Search](https://iworkfor.sa.gov.au/) - *Jobs in South Australian Government.*
+* [Northern Terrority Government Job Search](https://jobs.nt.gov.au/Home/Search) - *Jobs in Northern Terrority Government.*
+* [Western Australia Government Job Search](https://search.jobs.wa.gov.au/) - *Jobs in Western Australia Government.*
+* [Australian Capital Territory Job Search](https://www.jobs.act.gov.au/) - *Jobs in Australian Capital Territory Government.*
+* [All Jobs Australia](https://www.alljobs.com.au/) - *You can find a wide variety of roles.*
+* [LinkedIn](https://www.linkedin.com/feed/) - *Connect with recruiters and get jobs through this social network platform.*
+* [Australian Public Service Job Search](https://www.apsjobs.gov.au/) - *Find employment in Australian Public Service.*
+* [CareerOne Australia](https://www.careerone.com.au/) - *You can find a wide variety of roles.*
+* [GradConnection Australia](https://au.gradconnection.com/) - *If you’re looking for a job while studying or Graduated from University.*
+* [Indeed Australia](https://au.indeed.com/) - *You can find a wide variety of roles.*
+* [Job Seeker Australia](https://www.jobseeker.org.au/) - *You can find a wide variety of roles.*
+* [SpotJobs Australia](https://www.spotjobs.com/) - *Job site for entry-level, part-time, and casual work.*
 * [THEunijobs Australia](https://www.timeshighereducation.com/unijobs/en-au/listings/australia/)
-* [Salon Staff Australia](https://www.salonstaff.com.au/)
-* [OneShift Australia](https://au.oneshiftjobs.com/)
-* [CareerJet Australia](https://www.careerjet.com.au/)
-* [ArtsHub Australia](https://www.artshub.com.au/)
+* [Salon Staff Australia](https://www.salonstaff.com.au/) - *Find hairdressing and apprenticeship jobs*.
+* [OneShift Australia](https://au.oneshiftjobs.com/) - *Find one-off shifts, casual work, or permanent part-time employment.*
+* [CareerJet Australia](https://www.careerjet.com.au/) - *You can find a wide variety of roles.*
+* [ArtsHub Australia](https://www.artshub.com.au/) - *If you’re looking for work in the arts, cultural, or creative industries.*
 
 ## America
 
