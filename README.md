@@ -51,7 +51,7 @@ Below will be listed the Two best known operating systems to start conducting OS
 
 ## [↑](#contents) Virtual Machines
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
-* [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a proffesional version you can purchase if you prefer the proffesional version over the free version.*
+* [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a professional version you can purchase if you prefer the professional version over the free version.*
 
 ## [↑](#contents) Live Cams Australia
 Have you seen anything suspiouis happening in these live cams streaming all around Australia?
