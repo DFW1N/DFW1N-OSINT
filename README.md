@@ -104,7 +104,7 @@ This list will provide you with the largest email providers to assist you in eit
 all around the social web. Fanpage Karma Social Monitoring
 shows you, what they are talking about.*
 * [ExtractFace](https://sourceforge.net/projects/extractface/) - *Investigators, researchers or other analysts often have to get local copies of Facebook data.*
-* [Facebook Sleep Status](https://github.com/sqren/fb-sleep-stats) - *A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern.* [<img src="https://cloud.githubusercontent.com/assets/209966/13382859/b7b31aa4-de7e-11e5-8fca-35d68fe2f02f.png" align="left" width="250">](https://github.com/sqren/fb-sleep-stats)
+* [Facebook Sleep Status](https://github.com/sqren/fb-sleep-stats) - *A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern.*
 
 ### Twitter Tools
 * [Twitter Search Basics](http://search.twitter.com)
@@ -113,6 +113,7 @@ shows you, what they are talking about.*
 * [Audit Twitter Followers](https://www.twitteraudit.com) - *Find out how many of your targets followers are real are they buying twitter followers?*
 * [Find Twitter First Follower](https://socialrank.com/firstfollower) - *Who was your targets first follower or maybe yours?*
 * [Hashtagify](https://hashtagify.me/hashtag/tbt) - *Monitor your performance, exploit the best hashtag suggestions and identify Twitter influencers. All in one place.*
+* [Foller](https://foller.me/) - *Twitter analytics application that gives you rich insights about any public Twitter profile. We gather near real-time data about topics, mentions, hashtags, followers, location and more!*
 
 ## [↑](#contents) Australian Dating Networks
 You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
