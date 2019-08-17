@@ -4,10 +4,9 @@
 This List is in progress and will be a list specificually on OSINT tools in 2019 relating to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
 
 ## [↑](#contents) Credits
-*Thanks to:
-- [Sacha Roussakis-Notter](https://github.com/DFW1N)
+*Thanks to:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="100">](https://github.com/DFW1N/DFW1N-OSINT)
 
-[<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="100">](https://github.com/DFW1N/DFW1N-OSINT)
+- [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
 ## 📖 Table of Contents
 - [Social Media](#social-media)
