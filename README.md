@@ -36,6 +36,7 @@ Contributor:                                                [<img src="https://g
 - [Australian Capital Cities](#-country-capital-cities)
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
 - [OSINT Tools](#-OSINT-tools)
+- [Image Forensics](#-image-forensics)
 - [VPN Services](#-vpn-services)
 - [Dark Web Links](#-dark-web-links)
 
@@ -102,6 +103,8 @@ This list will provide you with the largest email providers to assist you in eit
 * [Facebook Social Monitoring](https://www.fanpagekarma.com/social-monitoring) - *People are talking about you, your brand and your industry
 all around the social web. Fanpage Karma Social Monitoring
 shows you, what they are talking about.*
+* [ExtractFace](https://sourceforge.net/projects/extractface/) - *Investigators, researchers or other analysts often have to get local copies of Facebook data.*
+* [Facebook Sleep Status](https://github.com/sqren/fb-sleep-stats) - *A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern.* [<img src="https://cloud.githubusercontent.com/assets/209966/13382859/b7b31aa4-de7e-11e5-8fca-35d68fe2f02f.png" align="right" width="100">](https://github.com/sqren/fb-sleep-stats)
 
 ### Twitter Tools
 * [Twitter Search Basics](http://search.twitter.com)
@@ -244,6 +247,8 @@ List known search engines used to browse the internet.
 * [Exif Viewer](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/?) - *Displays the Exif and IPTC data in local and remote JPEG images.*
 * [Google Translator for Firefox](https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox/) - *Translate languages on webpages.*
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - *Finally, an efficient blocker. Easy on CPU and memory.*
+* [Image Search Options](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/) - *Image Search Options provides a set of highly customizable reverse image search context menu options.*
+
 
 ### Google Chrome
 * [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US) - *Blocks Ads.*
@@ -251,6 +256,7 @@ List known search engines used to browse the internet.
 * [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - *Tells you whether or not it’s on Reddit.*
 * [Distill Web Monitor](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en-US) - *Distill runs in your browser to check monitored pages for changes. Get instant alerts as soon as a change is detected.*
 * [Treeverse](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila?hl=en-US) - *It takes a conversation on Twitter and breaks it down into a hierarchical tree and tells you who is talking to who and where the connections are.*
+* [RevEye](https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en) - *Reverse Image Search.*
 
 
 ## [↑](#contents) Internet Browsers
@@ -326,6 +332,26 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [Maltego](https://www.paterva.com/) - *Maltego is proprietary software used for open-source intelligence and forensics.*
 * [OSINT Framework](https://osintframework.com/) - *OSINT framework focused on gathering information from free tools or resources.*
 * [Grabify](https://www.grabify.link) - *Grabify IP Logger by Creating or Track URLs that you create you can find out there IP, location, Service provider, device being used this type of method is used if you are getting catfished or trying to get further information on your target.*
+* [Sherlock](https://github.com/sherlock-project/sherlock) - *Hunt down social media accounts by username across social networks.*
+
+## Automated OSINT Tools
+
+* [Spiderfoot](https://www.spiderfoot.net/) - *SpiderFoot is an open source intelligence (OSINT) automation tool. Its goal is to automate the process of gathering intelligence.*
+* [Sn1per](https://github.com/1N3/Sn1per) - *Sn1per is an automated Penetration Testing tool it can be used for information gathering I could gather data on your target in a very short amount of time.*
+* [theHarvester](https://github.com/laramies/theharvester) - *This tool harvests informaration on your target best way to use these type of tools is through the operating systems like Kali Linux.*
+* [Datasploit](https://github.com/DataSploit/datasploit) - *This automation tool is outdated but it can be easily fixed within its code to work for your needs it scans the internet based on OSINT data.*
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) - *Tool used to perform information gathering thoroughly and quickly.*
+* [Metagoofil](https://github.com/laramies/metagoofil) - *
+* [FOCA](https://github.com/ElevenPaths/FOCA) - *FOCA is a tool used mainly to find metadata and hidden information in the documents it scans. These documents may be on web pages, and can be downloaded and analysed with FOCA.*
+
+## [↑](#contents) Image Forensics
+* [Deblur Image](http://smartdeblur.net/) - *Have you found a photo of what your looking for but its blurry and cant make it out use this tool to try make the image clearer for your investigation.*
+* [Blurity!](https://www.blurity.com/) - *Works on making your blurry photo more sharp.*
+* [Lets Enchance](https://letsenhance.io/) - *Enhance and upscale images online using AI.*
+* [CamFind](https://camfindapp.com/) - *Have you ever wanted to Search the Physical World™? Enter CamFind. The world’s most accurate mobile visual search engine.*
+* [Image Identifier](https://www.imageidentify.com/) - *Image Identification Project.*
+
+
 
 
 ## [↑](#contents) VPN Services
