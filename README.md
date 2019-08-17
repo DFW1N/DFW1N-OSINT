@@ -246,4 +246,4 @@ Below will be well known VPN Services to keep you annonymous online and to ensur
 
 ## Support
 Please Support me if this has helped you with OSINT Research or investigation.
-[<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="left" width="100">](https://twitter.com/sacha_roussakis/)
+[<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/logo-twitter-circle-png-transparent-image-1.png" align="left" width="50">](https://twitter.com/sacha_roussakis/)
