@@ -29,7 +29,7 @@ This list will be split up into main job search networks in each country.
 * [Seek Australia](https://www.seek.com.au/) - *You can find a wide variety of roles.*
 * [Jora Australia](https://au.jora.com/) - *You can find a wide variety of roles.*
 * [New South Wales Government Job Search](https://iworkfor.nsw.gov.au/) - *Jobs in the New South Wales Government.*
-* [Queensland Government Job Search](https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904) - *QLD Government Jobs
+* [Queensland Government Job Search](https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904) - *Queensland Government Jobs.*
 * [South Australia Government Job Search](https://iworkfor.sa.gov.au/) - *Jobs in South Australian Government.*
 * [Northern Terrority Government Job Search](https://jobs.nt.gov.au/Home/Search) - *Jobs in Northern Terrority Government.*
 * [Western Australia Government Job Search](https://search.jobs.wa.gov.au/) - *Jobs in Western Australia Government.*
@@ -42,7 +42,7 @@ This list will be split up into main job search networks in each country.
 * [Indeed Australia](https://au.indeed.com/) - *You can find a wide variety of roles.*
 * [Job Seeker Australia](https://www.jobseeker.org.au/) - *You can find a wide variety of roles.*
 * [SpotJobs Australia](https://www.spotjobs.com/) - *Job site for entry-level, part-time, and casual work.*
-* [THEunijobs Australia](https://www.timeshighereducation.com/unijobs/en-au/listings/australia/)
+* [THEunijobs Australia](https://www.timeshighereducation.com/unijobs/en-au/listings/australia/) - *If you’re looking to work in higher education.*
 * [Salon Staff Australia](https://www.salonstaff.com.au/) - *Find hairdressing and apprenticeship jobs*.
 * [OneShift Australia](https://au.oneshiftjobs.com/) - *Find one-off shifts, casual work, or permanent part-time employment.*
 * [CareerJet Australia](https://www.careerjet.com.au/) - *You can find a wide variety of roles.*
