@@ -206,7 +206,7 @@ Below will be well known VPN Services to keep you annonymous online and to ensur
 * [NordVPN](https://nordvpn.com/)
 * [TunnelBear](https://www.tunnelbear.com/)
 * [IPVanish](https://www.ipvanish.com/)
-There are many other VPN Services this is just a handful look around find one that is right for you.
+- *There are many other VPN Services this is just a handful look around find one that is right for you.*
 
 ## [↑](#contents) Dark Web Links
 * [Deep Web Links](https://thehiddenwiki.org)
