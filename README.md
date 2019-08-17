@@ -121,7 +121,7 @@ You may find informaiton on your target on these dating websites or find them li
 * [Match Australia](https://au.match.com/dnws/cpx/intl/match/IndexPage/)
 * [OKCupid](https://www.okcupid.com/)
 * [Bumble Dating App](https://bumble.com)
-* [Oasis.com](https://www.oasis.com/)
+* [Oasis](https://www.oasis.com/)
 
 ## [↑](#contents) Username Identifiers
 The person you are searching do you know the username they go under like on reddit, xbox, playstation, steam here are some links that scan through sites to find what sites they are registered on.
