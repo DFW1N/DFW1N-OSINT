@@ -1,11 +1,11 @@
   [![alt tag](https://media.giphy.com/media/cOX066ptkLf7xIPDhx/giphy.gif)](https://Twitter.com/Sacha_Roussakis)                          
 
-## [↑](#contents) Credits
-*Thanks to:*
-[Sacha Roussakis-Notter](https://github.com/DFW1N)
-
 ## Description:
 This List is in progress and will be a list specificually on OSINT tools in 2019 relating to Person investigations or background checks this type of list would benefit, Missing Person CTF challanges, Government Agencies such as the Police or Intelligence Agencies and Private Organisations for Background searches on employees or other use. 
+
+## [↑](#contents) Credits
+*Thanks to:
+- [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
 [<img src="https://gyazo.com/58ea81729a5cff4e9b9598e2df68931b" align="right" width="100">](https://github.com/DFW1N/DFW1N-OSINT)
 
