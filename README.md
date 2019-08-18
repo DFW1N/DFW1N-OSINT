@@ -368,6 +368,8 @@ This Section will list the most visited sites in Australia the benefit of this l
 * [Apple Australia](https://www.apple.com/au/)
 
 ## [↑](#contents) Search Australian Vechicle Registrations
+Find out what type of car your target, employee, boss or company has what colour, engine type, brand is it this information would benefit you if you find there registration plate number this information could be used to locate their car passing through live cams on Australian highways to find out where your target was heading towards or dissapeared at this could unlock a whole new piece of information on your targets location it gives you the ability to find out where they were heading if you find it the direction the vechicle was traveling.
+
 * [Service New South Wales](https://www.service.nsw.gov.au/transaction/check-vehicle-registration) - *Check you're targets vechicle registration here in the state of NSW.*
 * [Vicroads Victoria](https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/check-vehicle-registration/vehicle-registration-enquiry) - *Check you're targets vechicle registration here in the state of VIC.*
 * [Queensland Roads](https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=5326) - *Check you're targets vechicle registration here in the state of QLD.*
