@@ -14,7 +14,7 @@ Contributor:                                                [<img src="https://g
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
 ## Contributing
-Please read the Contributing file for information on layout and relating data that does into the repository ensure it is based off Australian data. 
+Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/CONTRIBUTING.md) file for information on layout and relating data that does into the repository ensure it is based off Australian data. 
 
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
