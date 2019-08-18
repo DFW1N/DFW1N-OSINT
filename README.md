@@ -63,7 +63,7 @@ Below will be listed the Two best known operating systems to start conducting OS
 
 ## [↑](#contents) Virtual Machines
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
-* [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a professional version you can purchase if you prefer the professional version over the free version.*
+* [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) - *They are free to use VMware does have a professional version you can purchase if you prefer the professional version over the free version.*
 
 ## [↑](#contents) Google Hacking
 Google Hacking also known as Dorking is a passive information gathering method it uses queries that might be useful during domain investigation or searching for specific files on the internet on your target or organisation.
