@@ -81,7 +81,7 @@ Have you seen anything suspicious happening in these live cams streaming all aro
 * [Live View of Quay West Sydney](https://www.quaywestsuitessydney.com.au/webcam-en.html) - *See anything suspicious happening you can go back and forward on the footage you may find what your looking for.*
 * [Sydney Cameras Live](https://www.webcams.travel/webcam/1179853135-Weather-Sydney-Harbour%2C-Australia-Sydney-CBD) - *View Multiple or watch footage that happend throughout the day you may find what your searching for.*
 * [Watch Live Survelliance Online Australia](https://www.insecam.org/en/bycountry/AU/) - *Footage of live Survelliance Cameras Australia wide.*
-* [EarthCam AU](https://www.earthcam.com/search/ft_search.php?term=australia) - *Take advantage of Live cam streams for location research or analysis.
+* [EarthCam AU](https://www.earthcam.com/search/ft_search.php?term=australia) - *Take advantage of Live cam streams for location research or analysis.*
 
 
 
@@ -102,7 +102,7 @@ This list will provide you with the largest email providers to assist you in eit
 * [Outlook Live](https://outlook.live.com/owa/) - *Used as @outlook.com @hotmail.*
 * [iCloud](https://www.icloud.com/#mail) - *Most Mac, iPad, and iPhone users have an account used as @icloud.com.*
 * [Zoho Mail](https://www.zoho.com/mail/) - *Zoho Mail is part of a larger office productivity suite.*
-* [GMX Mail](https://www.gmx.com/) - *One of Germany’s largest internet service providers used as @gmx.com & @gmx.ch.
+* [GMX Mail](https://www.gmx.com/) - *One of Germany’s largest internet service providers used as @gmx.com & @gmx.ch.*
 * [Yahoo Mail](https://login.yahoo.com/?.src=ym&lang=&done=https%3A%2F%2Fau.mail.yahoo.com%2F) - *Yahoo! Mail had 281 million users, making it the third largest web-based email service in the world.*
 * [Mailinator](https://www.mailinator.com/) - *The Mailinator Email System puts millions of inboxes right at your fingertips. It is an amazing Email Workflow Testing tool for your Software or Service, great use for throw away burn emails.*
 
@@ -271,8 +271,8 @@ List known search engines used to browse the internet.
 ### Mozilla Firefox
 * [Nimbus Screen Capture](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/?) - *Capture the entire browser window including scrolling function.*
 * [Ip Address and Domain Information](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/) - *See detailed information about every IP Address, Domain Name and Provider.*
-* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?) - * lets you keep parts of your online life separated into color-coded tabs.*
-* [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) - *Make the web faster, more private, and more secure.)
+* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?) - *Lets you keep parts of your online life separated into color-coded tabs.*
+* [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) - *Make the web faster, more private, and more secure.*
 * [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/?) - *Allow active content to run only from sites you trust, and protect yourself against XSS other web security exploits.*
 * [Resurrect Pages](https://addons.mozilla.org/en-US/firefox/addon/resurrect-pages/?) - *Dead pages, broken links, the scourge of the internet.*
 * [Exif Viewer](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/?) - *Displays the Exif and IPTC data in local and remote JPEG images.*
@@ -374,7 +374,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [theHarvester](https://github.com/laramies/theharvester) - *This tool harvests informaration on your target best way to use these type of tools is through the operating systems like Kali Linux.*
 * [Datasploit](https://github.com/DataSploit/datasploit) - *This automation tool is outdated but it can be easily fixed within its code to work for your needs it scans the internet based on OSINT data.*
 * [Recon-ng](https://github.com/lanmaster53/recon-ng) - *Tool used to perform information gathering thoroughly and quickly.*
-* [Metagoofil](https://github.com/laramies/metagoofil) - *
+* [Metagoofil](https://github.com/laramies/metagoofil) - *Metagoofil is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company.*
 * [FOCA](https://github.com/ElevenPaths/FOCA) - *FOCA is a tool used mainly to find metadata and hidden information in the documents it scans. These documents may be on web pages, and can be downloaded and analysed with FOCA.*
 
 ## [↑](#contents) Image Forensics
