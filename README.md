@@ -19,6 +19,7 @@ Contributor:                                                [<img src="https://g
 - [Introduction](#-introduction)
 - [OSINT Operating Systems](#-osint-operating-systems)
 - [Virtual Machines](#-virtual-machines)
+- [Google Hacking](#-google-hacking)
 - [Live Cams Australia](#-live-cams-australia)
 - [Online Fake Identification](#-online-fake-identification)
 - [Large Free Email Providers](#-Large-free-email-providers)
@@ -63,6 +64,15 @@ Below will be listed the Two best known operating systems to start conducting OS
 ## [↑](#contents) Virtual Machines
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
 * [VMware](https://www.vmware.com/au.html) - *VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use VMware does have a professional version you can purchase if you prefer the professional version over the free version.*
+
+## [↑](#contents) Google Hacking
+Google Hacking also known as Dorking is a passive information gathering method it uses queries that might be useful during domain investigation or searching for specific files on the internet on your target or organisation.
+
+* [Exploit Database Google Hacking Cheat Sheet](https://www.exploit-db.com/google-hacking-database)
+Examples would be using them in such ways:
+- *Site:*.google.com — Shows all subdomains.*
+- *intext:exampleword — search for pages on websites that contain the specific word that you are searching for.*
+
 
 ## [↑](#contents) Live Cams Australia
 Have you seen anything suspicious happening in these live cams streaming all around Australia?
