@@ -31,7 +31,7 @@ Contributor:                                                [<img src="https://g
 - [Job Search Networks](#-job-search-networks)
 - [Online Alerts](#-online-alerts)
 - [Email Data Dumps](#-email-data-dumps)
-- [Australian Police & Intelligence Services](#-australian-police-&-intelligence-services)
+- [Australian Police and Intelligence Services](#-australian-police-and-intelligence-services)
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
 - [Best Browser Add-ons for OSINT](#-best-browser-add-ons-for-osint)
@@ -240,7 +240,7 @@ Assuming you have know or have obtained your targets email you can always check 
 * [Citadel](http://citadel.pw) - *Display usernames & passwords from an account that has been compromised in a data breach*
 * [MD5 Decryption and Encryption](https://md5decrypt.net/en/) - *Decrypt MD5 Hashes this website also provides many other decryption tools such as Sha512 decryption, Sha256, Morse Code Decryption etc.*
 
-## [↑](#contents) Australian Police & Intelligence Services
+## [↑](#contents) Australian Police and Intelligence Services
 This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all police sites in one place for quick access to information or policies you are looking for or leads on your targets.
 
 ### Australian Police Services
