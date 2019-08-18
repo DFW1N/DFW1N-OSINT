@@ -160,6 +160,7 @@ The person you are searching do you know the username they go under like on redd
 * [Knowem](http://www.Knowem.com) - *Searches for usernames on social media sites.*
 * [User Search](http://www.usersearch.org) - *Searches for usernames on social media sites.*
 * [Xbox Username Checker](https://www.xboxgamertag.com/) - *Search for you're targets gamer tag on xbox when was the last time they where online?*
+* [Check Usernames](www.checkusernames.com) - *Check the use of your brand or username on 160 Social Networks.*
 
 
 ## [↑](#contents) Person Investigations
@@ -283,6 +284,7 @@ List known search engines used to browse the internet.
 * [Google Translator for Firefox](https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox/) - *Translate languages on webpages.*
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - *Finally, an efficient blocker. Easy on CPU and memory.*
 * [Image Search Options](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/) - *Image Search Options provides a set of highly customizable reverse image search context menu options.*
+* [Open Source Intelligence Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/osint-browser-extension/) - *A Browser Extension to simplify the process of Open Source Intelligence (OSINT) Investigations.*
 
 
 ### Google Chrome
@@ -292,6 +294,8 @@ List known search engines used to browse the internet.
 * [Distill Web Monitor](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en-US) - *Distill runs in your browser to check monitored pages for changes. Get instant alerts as soon as a change is detected.*
 * [Treeverse](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila?hl=en-US) - *It takes a conversation on Twitter and breaks it down into a hierarchical tree and tells you who is talking to who and where the connections are.*
 * [RevEye](https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en) - *Reverse Image Search.*
+* [LinkedIn Sales Navigator](https://chrome.google.com/webstore/detail/linkedin-sales-navigator/hihakjfhbmlmjdnnhegiciffjplmdhin) - *Engage with Sales Navigator insights where you’re already communicating with prospects and customers.*
+
 
 
 ## [↑](#contents) Internet Browsers
