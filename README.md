@@ -6,6 +6,8 @@ So you want to do background checks on employees or find a missing person assist
 
 This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made for the upcoming The AustCyber Canberra Innovation Node that partnered with the Australian Federal Police, the National Missing Persons Coordination Centre and Trace Labs to conduct a missing person capture the flag (CTF) event (aka Hackathon) this list is designed for Australians who want a quick and easy list for the event to assist them with most resources relating to Australia so it is easier to bring the scope down to persons who have gone missing in Australia.
 
+### Australias Largest Open Source Intelligence Resources Repository
+
 ## [↑](#contents) Credits
 Contributor:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
 
@@ -37,6 +39,7 @@ Contributor:                                                [<img src="https://g
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
 - [OSINT Tools](#-OSINT-tools)
 - [Image Forensics](#-image-forensics)
+- [Mobile Forensics](#-mobile-forensics)
 - [VPN Services](#-vpn-services)
 - [Dark Web Links](#-dark-web-links)
 
@@ -46,10 +49,16 @@ I have created this for the purposes of Open Source Intelligence Gathering known
 Start by downloading a OSINT Operating System (OS), create burner accounts for all social media platforms so you do not use your real information as websites sometimes show who has been on there profile or similar use a VPN or even if your doing it for a short time use a free VPN but dont be sure to rely on free VPN services you get what you pay for and use this list to assist in finding OSINT information on your target good luck.
 
 ## [↑](#contents) OSINT Operating Systems
-Below will be listed the Two best known operating systems to start conducting OSINT to scrape the wider Internet and Deep web on your target.
+Below will be listed the Two best known operating systems to start conducting OSINT to scrape the wider Internet and Deep web on your target use a Android Emulator to create a burner phone to secure your devices and identity.
 
+### Linux Operating Systems
 * [Buscador OS](https://inteltechniques.com/buscador/) - *This Operating System is setup for Investigators and Ethical Hackers for OSINT purposes.*
 * [Kali Linux OS](https://www.kali.org/downloads/) - *Kali Linux Operating System is widely used by Offensive Security Teams, Hackers and Ethical Hackers.*
+
+### Android Emulators
+* [BlueStacks](https://www.bluestacks.com/) - *Made mostly for gamers but runs other apps as well.*
+* [AMIDuOS](http://android-emulators.com/amiduos) - *AMIDuOS Android emulator by American developers allows using your computer for launching programs that were developed for Android OS.*
+* [Genymotion](https://www.genymotion.com/fun-zone/) - *Widely used by developers but also has a free version for personal use.*
 
 ## [↑](#contents) Virtual Machines
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
@@ -61,6 +70,8 @@ Have you seen anything suspicious happening in these live cams streaming all aro
 * [Live View of Quay West Sydney](https://www.quaywestsuitessydney.com.au/webcam-en.html) - *See anything suspicious happening you can go back and forward on the footage you may find what your looking for.*
 * [Sydney Cameras Live](https://www.webcams.travel/webcam/1179853135-Weather-Sydney-Harbour%2C-Australia-Sydney-CBD) - *View Multiple or watch footage that happend throughout the day you may find what your searching for.*
 * [Watch Live Survelliance Online Australia](https://www.insecam.org/en/bycountry/AU/) - *Footage of live Survelliance Cameras Australia wide.*
+* [EarthCam AU](https://www.earthcam.com/search/ft_search.php?term=australia) - *Take advantage of Live cam streams for location research or analysis.
+
 
 
 ## [↑](#contents) Online Fake Identification
@@ -72,6 +83,7 @@ So you are making burn accounts to do your OSINT on the internet and deep web wo
 * [Random Address Generator](https://www.fakepersongenerator.com/random-address) - *Generated addresses covering all cities and states in the United States.*
 * [SpinXO Username Generator](http://www.spinxo.com/) - *Use there username generator to combine various popular keywords with your name, words that are important to you or characterize you and your personality.*
 * [TempSMS](https://www.temp-sms.org) - *Recieve SMS online instantly using New Zealand burner mobile numbers.*
+
 
 ## [↑](#contents) Large Free Email Providers
 This list will provide you with the largest email providers to assist you in either creating burner accounts or running email scrapes against there email domain servers on your target.
@@ -114,6 +126,11 @@ shows you, what they are talking about.*
 * [Find Twitter First Follower](https://socialrank.com/firstfollower) - *Who was your targets first follower or maybe yours?*
 * [Hashtagify](https://hashtagify.me/hashtag/tbt) - *Monitor your performance, exploit the best hashtag suggestions and identify Twitter influencers. All in one place.*
 * [Foller](https://foller.me/) - *Twitter analytics application that gives you rich insights about any public Twitter profile. We gather near real-time data about topics, mentions, hashtags, followers, location and more!*
+
+## LinkedIn Tools
+* [LinkedIn Automation Email Retrieval](https://github.com/leapsecurity/InSpy) - *Automation of domain and email retrieval in addition to randomized headers and xml output support through LinkedIn.*
+* [LinkedIn Recon Tool](https://github.com/vysecurity/LinkedInt) - *Providing you with Linkedin Intelligence.*
+* [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - *Tool assists in performing reconnaissance using the LinkedIn.com website/API. Provide a search string just as you would on the original website and let ScrapedIn do all the dirty work.*
 
 ## [↑](#contents) Australian Dating Networks
 You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
@@ -328,6 +345,8 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [IP Geolocation](https://tools.keycdn.com/geo)
 * [Whois](https://www.whois.com/whois/)
 * [API and IP Location Lookup Database](https://ipgeolocation.io/)
+* [Building Locator](https://www.emporis.com/buildings/map?action=%2Fbuildings#c=-28.524107,134.985543&z=4) - *Might be useful to determine what building is on the picture.*
+* [IP Location](https://www.iplocation.net/) - *Where is Geolocation of an IP Address?*
 
 ## [↑](#contents) OSINT Tools
 * [Maltego](https://www.paterva.com/) - *Maltego is proprietary software used for open-source intelligence and forensics.*
@@ -352,6 +371,9 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [CamFind](https://camfindapp.com/) - *Have you ever wanted to Search the Physical World™? Enter CamFind. The world’s most accurate mobile visual search engine.*
 * [Image Identifier](https://www.imageidentify.com/) - *Image Identification Project.*
 
+## [↑](#contents) Mobile Forensics
+So your target has called you or you have found there number use these OSINT tools to assist with your investigation or background checks or however you want to use these resources.
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - *PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.*
 
 
 
