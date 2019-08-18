@@ -385,7 +385,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [Sherlock](https://github.com/sherlock-project/sherlock) - *Hunt down social media accounts by username across social networks.*
 
 Example of Sherlock in Progress.
-  [![alt tag](https://i.gyazo.com/3d8172dcdbfa75d0c2e44ccd5c73a377.mp4)](https://github.com/sherlock-project/sherlock)    
+  [![alt tag](https://im4.ezgif.com/tmp/ezgif-4-14d626bb6000.gif)](https://github.com/sherlock-project/sherlock)    
 
 
 
