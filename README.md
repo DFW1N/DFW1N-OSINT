@@ -380,7 +380,7 @@ Find out what type of car your target, employee, boss or company has what colour
 * [South Austalia EzyReg](https://www.ecom.transport.sa.gov.au/et/checkRegistrationExpiryDate.do) - *Check you're targets vechicle registration here in the state of SA.*
 * [Department of Transport Western Australia](https://online.transport.wa.gov.au/webExternal/registration/?0) - *Check you're targets vechicle registration here in the state of WA.*
 * [Australian Capital Territory Transport](https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage;jsessionid=2E28D04D5F4C72501411202604EB7CE7?0) - *Check you're targets vechicle registration here in the state of ACT.*
-## Traffic Camera for OSINT Gathering
+### Live Traffic Cameras for OSINT Gathering
 * [Traffic Live NSW](http://m.livetraffic.rta.nsw.gov.au/CameraList.aspx?r=ALL) - *Traffic cameras all over NSW.*
 * [QLD Traffic Cameras](https://qldtraffic.qld.gov.au/cameras.html) - *This is traffic cameras that is on QLD government site.*
 * [Traffic Cameras](https://straya.io/traffic-cameras/) - *Use this site so view live traffic camera footage Australia wide you might see your targets car.*
