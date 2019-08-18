@@ -477,7 +477,7 @@ So your target has called you or you have found there number use these OSINT too
 
 ## [↑](#contents) Australian Credit Checks
 So lets assume you have done a fair enough of OSINT gathering on your target and you have managed to get the basics of there details why not take it a step further and use those details to do a credit check on them this would increase your profile on your target as this may unlock, unpaid bills from missing or maybe there bills are up to date who knows.
-* [Free Credit Check](https://www.getcreditscore.com.au/) - *You would need to create an account with this site with the details you have obtained during your OSINT investigation or research.
+* [Free Credit Check](https://www.getcreditscore.com.au/) - *You would need to create an account with this site with the details you have obtained during your OSINT investigation or research.*
 * [Finder Credit Check (AU)](https://www.finder.com.au/credit-score/login) - *Account required.*
 
 ## [↑](#contents) Report Generators
