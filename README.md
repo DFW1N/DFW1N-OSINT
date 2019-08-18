@@ -13,7 +13,8 @@ Contributor:                                                [<img src="https://g
 
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
 
-
+## Contributing
+Please read the Contributing file for information on layout and relating data that does into the repository ensure it is based off Australian data. 
 
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
@@ -404,11 +405,20 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [OSINT Framework](https://osintframework.com/) - *OSINT framework focused on gathering information from free tools or resources.*
 * [Grabify](https://www.grabify.link) - *Grabify IP Logger by Creating or Track URLs that you create you can find out there IP, location, Service provider, device being used this type of method is used if you are getting catfished or trying to get further information on your target.*
 
+## Barcode Readers & Generators
+* [Online Barcode Reader](https://www.onlinebarcodereader.com/) - *You never know when you may come across a Barcode that your target may have posted or used somewhere.*
+* [ByteScout Barcode Reader](https://app.bytescout.com/barcode-reader/barcode-reader.html) - *Barcode Reader.*
+*[Barcode Generator](https://www.barcodesinc.com/generator/index.php) - *Read barcodes and generate your own barcodes.*
+
 ## Automated OSINT Tools
 
+* [Photon](https://github.com/s0md3v/Photon) - *Incredibly fast crawler designed for OSINT.*
+* [Zen](https://github.com/s0md3v/Zen) - *Find email address of a user through the github website.*
 * [Spiderfoot](https://www.spiderfoot.net/) - *SpiderFoot is an open source intelligence (OSINT) automation tool. Its goal is to automate the process of gathering intelligence.*
 * [Sn1per](https://github.com/1N3/Sn1per) - *Sn1per is an automated Penetration Testing tool it can be used for information gathering I could gather data on your target in a very short amount of time.*
 * [theHarvester](https://github.com/laramies/theharvester) - *This tool harvests informaration on your target best way to use these type of tools is through the operating systems like Kali Linux.*
+* [Orbit](https://github.com/s0md3v/Orbit) - *Orbit is designed to explore network of a blockchain wallet by recursively crawling through transaction history. The data is rendered as a graph to reveal major sources, sinks and suspicious connections.*
+* [Belati](https://github.com/aancw/Belati) - *Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose. This tools is inspired by Foca and Datasploit for OSINT.*
 * [Datasploit](https://github.com/DataSploit/datasploit) - *This automation tool is outdated but it can be easily fixed within its code to work for your needs it scans the internet based on OSINT data.*
 * [Recon-ng](https://github.com/lanmaster53/recon-ng) - *Tool used to perform information gathering thoroughly and quickly.*
 * [Metagoofil](https://github.com/laramies/metagoofil) - *Metagoofil is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company.*
