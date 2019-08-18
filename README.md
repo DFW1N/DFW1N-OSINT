@@ -241,7 +241,7 @@ Assuming you have know or have obtained your targets email you can always check 
 * [MD5 Decryption and Encryption](https://md5decrypt.net/en/) - *Decrypt MD5 Hashes this website also provides many other decryption tools such as Sha512 decryption, Sha256, Morse Code Decryption etc.*
 
 ## [↑](#contents) Australian Police and Intelligence Services
-This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all police sites in one place for quick access to information or policies you are looking for or leads on your targets.
+This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all law enforcement bodies in one place for quick access to information or policies you are looking for or leads on your targets.
 
 ### Australian Police Services
 * [New South Wales Police Force](https://www.police.nsw.gov.au/) - *Australian New South Wales Police Force Website.*
