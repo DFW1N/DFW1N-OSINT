@@ -57,9 +57,13 @@ Below will be listed the Two best known operating systems to start conducting OS
 * [Kali Linux OS](https://www.kali.org/downloads/) - *Kali Linux Operating System is widely used by Offensive Security Teams, Hackers and Ethical Hackers.*
 
 ### Android Emulators
+* [Android Studio’s Emulator](https://developer.android.com/studio/) - *Android Studio provides the fastest tools for building apps on every type of Android device.*
 * [BlueStacks](https://www.bluestacks.com/) - *Made mostly for gamers but runs other apps as well.*
 * [AMIDuOS](http://android-emulators.com/amiduos) - *AMIDuOS Android emulator by American developers allows using your computer for launching programs that were developed for Android OS.*
 * [Genymotion](https://www.genymotion.com/fun-zone/) - *Widely used by developers but also has a free version for personal use.*
+* [ARChon](https://github.com/vladikoff/chromeos-apk/blob/master/archon.md) - *ARChon runtime lets you run unlimited number of Android APKs created with chromeos-apk on Chrome OS and across any desktop platform that supports Chrome.*
+* [Bliss](https://forum.xda-developers.com/bliss-roms/bliss-roms-development/x86-bliss-x86-pc-s-t3534657) - *Bliss is something a little bit different. It works as an Android emulator for PC via virtual machine.*
+
 
 ## [↑](#contents) Virtual Machines
 * [VirtualBox](https://www.virtualbox.org/) - *VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use.*
@@ -167,10 +171,15 @@ The person you are searching do you know the username they go under like on redd
 This will assist you with quick references to websites that could speed up your research on people.
 
 ### Australia
+* [Australian Person Lookup](https://personlookup.com.au/) - *7 million records Multiple, authoritative sources with enhanced data for over 7M people Australia wide*
+* [Australian Public Records](https://australiapublicrecord.com/people-finder/) - *If you are looking for someone in Australia then the chances are good that you will find them.*
+* [People Search Australia](https://www.peoplesearch.com.au/) - *Free Australian people finder. Whether you're looking to find an old friend from school, military buddy, lost love, or anyone else, People Search has you covered.*
+* [Early Australian Census Records](https://guides.slv.vic.gov.au/earlycensus/findpeople) - *Only some records of individuals have survived. This guide lists all known Australian census and muster records at State Library Victoria or online.*
+* [National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx) - *RecordSearch contains names and images of Indigenous Australians now deceased, you may find background history of your targets family history here.*
 * [Missing Persons Australia](https://missingpersons.gov.au/view-all-profiles)
 * [White Pages (AU)](https://www.whitepages.com.au/residential)
 * [People Search (Australia)](http://www.peoplesearch.com.au)
-* [facesearch](http://facesaerch.com) - Search for images of a person by name.
+* [Facesearch](http://facesaerch.com) - Search for images of a person by name.
 * [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
 * [Family Search](https://familysearch.org)
 * [Ancestry Australia](https://www.ancestry.com.au/)
@@ -180,6 +189,8 @@ This will assist you with quick references to websites that could speed up your 
 * [Switchboard](http://www.switchboard.com)
 * [Australian Military Service Records](http://www.naa.gov.au/collection/explore/defence/service-records/)
 * [Australian War Memorial](https://www.awm.gov.au/collection/understanding-the-memorials-collection/researching-a-person) - *Research a Person who may have information on there history in Australian military records.*
+* [Research Data Australia](https://researchdata.ands.org.au/search/#!/q=/class=collection/) - *Find, access, and re-use data for research - from over one hundred Australian research organisations, government agencies, and cultural institutions.*
+
 
 ## [↑](#contents) Job Search Networks
 This list is the main job search networks used in Australia to find job employment did your target recently apply for a job on any of these sites before they went missing or maybe you want to find out information about companies your doing OSINT research on.
@@ -244,7 +255,7 @@ This section is dedicated to assist Australian, Ethical hackers, Police Services
 * [Tasmanian Police Force](https://www.police.tas.gov.au/) - *Tasmanian Police Force Website.*
 
 ## [↑](#contents) Internet Search Engines
-List known search engines used to browse the internet.
+List of big known search engines used to browse the internet.
 
 * [Google](https://www.google.com)
 * [Bing](https://www.bing.com)
