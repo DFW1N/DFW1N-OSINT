@@ -43,6 +43,8 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [OSINT Tools](#-OSINT-tools)
 - [Image Forensics](#-image-forensics)
 - [Mobile Forensics](#-mobile-forensics)
+- [Australian Credit Checks](#-australian-credit-checks)
+- [Report Generators](#-report-generators)
 - [VPN Services](#-vpn-services)
 - [Dark Web Links](#-dark-web-links)
 
@@ -379,6 +381,10 @@ Find out what type of car your target, employee, boss or company has what colour
 * [Department of Transport Western Australia](https://online.transport.wa.gov.au/webExternal/registration/?0) - *Check you're targets vechicle registration here in the state of WA.*
 * [Australian Capital Territory Transport](https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage;jsessionid=2E28D04D5F4C72501411202604EB7CE7?0) - *Check you're targets vechicle registration here in the state of ACT.*
 
+* [Traffic Live NSW](http://m.livetraffic.rta.nsw.gov.au/CameraList.aspx?r=ALL) - *Traffic cameras all over NSW.*
+* [QLD Traffic Cameras](https://qldtraffic.qld.gov.au/cameras.html) - *This is traffic cameras that is on QLD government site.
+* [Traffic Cameras](https://straya.io/traffic-cameras/) - *Use this site so view live traffic camera footage Australia wide you might see your targets car.
+
 ## [↑](#contents) Australian Prison System
 Is your target from prison or family, maybe a person went missing near a jail this section will list, how to locate Australian prisoners, corrective services in australia and prison locations for quick OSINT research of areas that could pose a risk to the Australian society if somthing was to happen in the surrounding area.
 
@@ -469,7 +475,16 @@ These programs and tools can be used for OSINT Research to try get a understandi
 So your target has called you or you have found there number use these OSINT tools to assist with your investigation or background checks or however you want to use these resources.
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - *PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.*
 
+## [↑](#contents) Australian Credit Checks
+So lets assume you have done a fair enough of OSINT gathering on your target and you have managed to get the basics of there details why not take it a step further and use those details to do a credit check on them this would increase your profile on your target as this may unlock, unpaid bills from missing or maybe there bills are up to date who knows.
+* [Free Credit Check](https://www.getcreditscore.com.au/) - *You would need to create an account with this site with the details you have obtained during your OSINT investigation or research.
+* [Finder Credit Check (AU)](https://www.finder.com.au/credit-score/login) - *Account required.*
 
+## [↑](#contents) Report Generators
+So now after you have so much information on your target you can use these report generator programs to do it automation or atleast assist you with generating a report at a fast rate, develop a report using these.
+* [Canva](https://www.canva.com/create/reports/) - *An engaging report is all about presenting your information clearly and beautifully. It could be an annual company report, sales report, budget report, expense report; even a white paper.*
+* [Reportivo](http://reportivo.com/create) - *Upload the data for your report in Excel or CSV format.*
+* [Bug Bounty Report Generator](https://buer.haus/breport/index.php) - *A quick tool for generating quality bug bounty reports.*
 
 ## [↑](#contents) VPN Services
 Below will be well known VPN Services to keep you annonymous online and to ensure you cannot be tracked by hackers or others especially when browsing the dark web or scraping information from sites on the wider internet.
