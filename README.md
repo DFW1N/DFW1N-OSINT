@@ -225,6 +225,8 @@ Specifically use these to get alerts when somthing changes or is posted with spe
 ## [↑](#contents) Email Data Dumps
 Assuming you have know or have obtained your targets email you can always check if there email has been compromised which results in Email data dump and password dumps and what if you got a encrypted text relating to the password data dump use the tools I list below to help you with getting the informaiton on your target or even yourself. 
 * [Haveibeenpwned](https://haveibeenpwned.com/) - *Check if you have an account that has been compromised in a data breach*
+* [DeHashed](https://www.dehashed.com/) - *Display usernames & passwords from an account that has been compromised in a data breach*
+* [Citadel](http://citadel.pw) - *Display usernames & passwords from an account that has been compromised in a data breach*
 * [MD5 Decryption and Encryption](https://md5decrypt.net/en/) - *Decrypt MD5 Hashes this website also provides many other decryption tools such as Sha512 decryption, Sha256, Morse Code Decryption etc.*
 
 ## [↑](#contents) Police Websites
