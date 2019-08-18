@@ -253,8 +253,6 @@ List known search engines used to browse the internet.
 * [DuckDuckGo](https://duckduckgo.com)
 * [Aol](http://search.aol.com)
 * [Search.com](http://www.search.com)
-* [Shodan](https://www.shodan.io) - *Shodan is a search engine that lets the user find specific Internet of Things connected to the internet.*
-* [ZoomEye](https://www.zoomeye.org/) - *Search engine for Cyberspace Searches.*
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Lycos](http://www.lycos.com)
 * [Dothop](http://dothop.com)
@@ -265,6 +263,12 @@ List known search engines used to browse the internet.
 * [iZito](http://www.izito.com)
 * [All-in-One](http://all-io.net)
 * [Carrot2](http://search.carrot2.org) - *Carrot2 organizes your search results into topics. With an instant overview of what's available, you will quickly find what you're looking for.*
+
+### IoT Search Engines
+* [Shodan](https://www.shodan.io) - *Shodan is a search engine that lets the user find specific Internet of Things connected to the internet.*
+* [ZoomEye](https://www.zoomeye.org/) - *Search engine for Cyberspace Searches.*
+* [Censys](https://censys.io/) - *Get a current view of all of your organization's assets so you can proactively prevent targeted attacks and investigate suspicious activity.*
+* [FOFA Pro](https://fofa.so/) - *FOFA is a cyberspace search engine developed by BAIMAOHUI.*
 
 ## [↑](#contents) Best Browser Add-ons for OSINT
 
@@ -347,6 +351,8 @@ These programs and tools can be used for OSINT Research to try get a understandi
 
 #### Tools
 * [Google Earth Pro](https://www.google.com/earth/versions/#download-pro)
+* [Creepy](http://www.geocreepy.com/) - *A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.*
+* [Echosec](https://www.echosec.net/) - *However this is a alternate for data discovery for threat intelligence it does cost $500 a month.*
 
 #### Sites
 * [Open Street Map](https://www.openstreetmap.org/)
@@ -360,12 +366,12 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [API and IP Location Lookup Database](https://ipgeolocation.io/)
 * [Building Locator](https://www.emporis.com/buildings/map?action=%2Fbuildings#c=-28.524107,134.985543&z=4) - *Might be useful to determine what building is on the picture.*
 * [IP Location](https://www.iplocation.net/) - *Where is Geolocation of an IP Address?*
+* [EXIF Data Viewer](http://exifdata.com/) - *Storing information on the image such as shutter speed, exposure compensation, F number, what metering system was used, if a flash was used, ISO number, date and time the image was taken.*
 
 ## [↑](#contents) OSINT Tools
 * [Maltego](https://www.paterva.com/) - *Maltego is proprietary software used for open-source intelligence and forensics.*
 * [OSINT Framework](https://osintframework.com/) - *OSINT framework focused on gathering information from free tools or resources.*
 * [Grabify](https://www.grabify.link) - *Grabify IP Logger by Creating or Track URLs that you create you can find out there IP, location, Service provider, device being used this type of method is used if you are getting catfished or trying to get further information on your target.*
-* [Sherlock](https://github.com/sherlock-project/sherlock) - *Hunt down social media accounts by username across social networks.*
 
 ## Automated OSINT Tools
 
@@ -376,6 +382,13 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [Recon-ng](https://github.com/lanmaster53/recon-ng) - *Tool used to perform information gathering thoroughly and quickly.*
 * [Metagoofil](https://github.com/laramies/metagoofil) - *Metagoofil is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company.*
 * [FOCA](https://github.com/ElevenPaths/FOCA) - *FOCA is a tool used mainly to find metadata and hidden information in the documents it scans. These documents may be on web pages, and can be downloaded and analysed with FOCA.*
+* [Sherlock](https://github.com/sherlock-project/sherlock) - *Hunt down social media accounts by username across social networks.*
+
+Example of Sherlock in Progress.
+  [![alt tag](https://i.gyazo.com/3d8172dcdbfa75d0c2e44ccd5c73a377.mp4)](https://github.com/sherlock-project/sherlock)    
+
+
+
 
 ## [↑](#contents) Image Forensics
 * [Deblur Image](http://smartdeblur.net/) - *Have you found a photo of what your looking for but its blurry and cant make it out use this tool to try make the image clearer for your investigation.*
