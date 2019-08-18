@@ -384,7 +384,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [FOCA](https://github.com/ElevenPaths/FOCA) - *FOCA is a tool used mainly to find metadata and hidden information in the documents it scans. These documents may be on web pages, and can be downloaded and analysed with FOCA.*
 * [Sherlock](https://github.com/sherlock-project/sherlock) - *Hunt down social media accounts by username across social networks.*
 
-Example of Sherlock in Progress.
+
   [![alt tag](https://im4.ezgif.com/tmp/ezgif-4-14d626bb6000.gif)](https://github.com/sherlock-project/sherlock)    
 
 
