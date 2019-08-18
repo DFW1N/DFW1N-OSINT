@@ -30,7 +30,7 @@ Contributor:                                                [<img src="https://g
 - [Person Investigations](#-person-investigations)
 - [Job Search Networks](#-job-search-networks)
 - [Online Alerts](#-online-alerts)
-- [Email Data Dump](#-email-data-dump)
+- [Email Data Dumps](#-email-data-dumps)
 - [Police Websites](#-police-websites)
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
