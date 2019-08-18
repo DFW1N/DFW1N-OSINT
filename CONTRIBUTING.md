@@ -25,6 +25,8 @@ be out of scope for this.
 ```
 Please Fork the Respository and Star it and share it on social media thank you.
 ```
+## Code of Conduct
+Please ensure you are not breaking any of the rules listed in the [Code of Conduct](https://github.com/DFW1N/DFW1N-OSINT/blob/master/CODE_OF_CONDUCT.md) if you wish to email me about regarding anything listed in it you can reach me at dfw1nosint@protonmail.com
 
 ## Support me
 Please Support me at:
