@@ -171,14 +171,13 @@ The person you are searching do you know the username they go under like on redd
 This will assist you with quick references to websites that could speed up your research on people.
 
 ### Australia
-* [Australian Person Lookup](https://personlookup.com.au/) - *7 million records Multiple, authoritative sources with enhanced data for over 7M people Australia wide*
+* [Australian Person Lookup](https://personlookup.com.au/) - *7 million records Multiple, authoritative sources with enhanced data for over 7M people Australia wide.*
 * [Australian Public Records](https://australiapublicrecord.com/people-finder/) - *If you are looking for someone in Australia then the chances are good that you will find them.*
-* [People Search Australia](https://www.peoplesearch.com.au/) - *Free Australian people finder. Whether you're looking to find an old friend from school, military buddy, lost love, or anyone else, People Search has you covered.*
 * [Early Australian Census Records](https://guides.slv.vic.gov.au/earlycensus/findpeople) - *Only some records of individuals have survived. This guide lists all known Australian census and muster records at State Library Victoria or online.*
 * [National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx) - *RecordSearch contains names and images of Indigenous Australians now deceased, you may find background history of your targets family history here.*
 * [Missing Persons Australia](https://missingpersons.gov.au/view-all-profiles)
 * [White Pages (AU)](https://www.whitepages.com.au/residential)
-* [People Search (Australia)](http://www.peoplesearch.com.au)
+* [People Search (Australia)](http://www.peoplesearch.com.au) - *Free Australian people finder. Whether you're looking to find an old friend from school, military buddy, lost love, or anyone else, People Search has you covered.*
 * [Facesearch](http://facesaerch.com) - Search for images of a person by name.
 * [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
 * [Family Search](https://familysearch.org)
