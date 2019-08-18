@@ -410,6 +410,9 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [Lets Enchance](https://letsenhance.io/) - *Enhance and upscale images online using AI.*
 * [CamFind](https://camfindapp.com/) - *Have you ever wanted to Search the Physical World™? Enter CamFind. The world’s most accurate mobile visual search engine.*
 * [Image Identifier](https://www.imageidentify.com/) - *Image Identification Project.*
+* [LunaPic](https://www130.lunapic.com/editor/?action=decrypt) - *Decrypt your image with a password or phrase.*
+* [Decrypt Image Online](http://decrypt.imageonline.co/index.php) - *Image decryption tool help to restore your encrypted image to its original pixels.*
+
 
 ## [↑](#contents) Mobile Forensics
 So your target has called you or you have found there number use these OSINT tools to assist with your investigation or background checks or however you want to use these resources.
