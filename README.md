@@ -36,6 +36,8 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Internet Browsers](#-internet-browsers)
 - [Best Browser Add-ons for OSINT](#-best-browser-add-ons-for-osint)
 - [Most Visited Sites](#-most-visited-sites)
+- [Search Australian Vechicle Registrations](#-search-australian-vechicle-registrations)
+- [Australian Prison System](#-australian-prison-system)
 - [Australian Capital Cities](#-country-capital-cities)
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
 - [OSINT Tools](#-OSINT-tools)
@@ -364,6 +366,27 @@ This Section will list the most visited sites in Australia the benefit of this l
 * [Gumtree Australia](https://www.gumtree.com.au)
 * [NTD News](https://www.ntd.com/)
 * [Apple Australia](https://www.apple.com/au/)
+
+## [↑](#contents) Search Australian Vechicle Registrations
+* [Service New South Wales](https://www.service.nsw.gov.au/transaction/check-vehicle-registration) - *Check you're targets vechicle registration here in the state of NSW.*
+* [Vicroads Victoria](https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/check-vehicle-registration/vehicle-registration-enquiry) - *Check you're targets vechicle registration here in the state of VIC.*
+* [Queensland Roads](https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=5326) - *Check you're targets vechicle registration here in the state of QLD.*
+* [Northern Territory Motor Vehicle Registry](https://nt.gov.au/driving/rego/check,-renew-or-transfer-your-registration/rego-check) - *Check you're targets vechicle registration here in the state of NT.*
+* [Transport Tasmania](https://www.transport.tas.gov.au/MRSWebInterface/public/regoLookup/registrationLookup.jsf) - *Check you're targets vechicle registration here in the state of TAS.*
+* [South Austalia EzyReg](https://www.ecom.transport.sa.gov.au/et/checkRegistrationExpiryDate.do) - *Check you're targets vechicle registration here in the state of SA.*
+* [Department of Transport Western Australia](https://online.transport.wa.gov.au/webExternal/registration/?0) - *Check you're targets vechicle registration here in the state of WA.*
+* [Australian Capital Territory Transport](https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage;jsessionid=2E28D04D5F4C72501411202604EB7CE7?0) - *Check you're targets vechicle registration here in the state of ACT.*
+
+## [↑](#contents) Australian Prison System
+Is your target from prison or family, maybe a person went missing near a jail this section will list, how to locate Australian prisoners, corrective services in australia and prison locations for quick OSINT research of areas that could pose a risk to the Australian society if somthing was to happen in the surrounding area.
+
+## Australian Corrective Services
+* [New South Wales Corrective Services](https://www.correctiveservices.justice.nsw.gov.au/)
+* [Department for Corrective Services South Australia](https://www.corrections.sa.gov.au/)
+* [Queensland Corrective Services](https://corrections.qld.gov.au/)
+* [Corrections Victoria](https://www.corrections.vic.gov.au/)
+* [Corrective Services Western Australia](https://www.correctiveservices.wa.gov.au/)
+* [Correctional Services Northern Territory](https://justice.nt.gov.au/correctional-services)
 
 ## [↑](#contents) Australian Capital Cities
 
