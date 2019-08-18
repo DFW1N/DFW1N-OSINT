@@ -31,7 +31,7 @@ Contributor:                                                [<img src="https://g
 - [Job Search Networks](#-job-search-networks)
 - [Online Alerts](#-online-alerts)
 - [Email Data Dumps](#-email-data-dumps)
-- [Police Websites](#-police-websites)
+- [Australian Police & Intelligence Services](#-australian-police-&-intelligence-services)
 - [Internet Search Engines](#-internet-search-engines)
 - [Internet Browsers](#-internet-browsers)
 - [Best Browser Add-ons for OSINT](#-best-browser-add-ons-for-osint)
@@ -240,18 +240,35 @@ Assuming you have know or have obtained your targets email you can always check 
 * [Citadel](http://citadel.pw) - *Display usernames & passwords from an account that has been compromised in a data breach*
 * [MD5 Decryption and Encryption](https://md5decrypt.net/en/) - *Decrypt MD5 Hashes this website also provides many other decryption tools such as Sha512 decryption, Sha256, Morse Code Decryption etc.*
 
-## [↑](#contents) Police Websites
+## [↑](#contents) Australian Police & Intelligence Services
 This section is dedicated to assist Australian, Ethical hackers, Police Services, Intelligence Agencies or Private investigators in quickly finding all police sites in one place for quick access to information or policies you are looking for or leads on your targets.
 
-### Australia
+### Australian Police Services
 * [New South Wales Police Force](https://www.police.nsw.gov.au/) - *Australian New South Wales Police Force Website.*
 * [Queensland Police Force](https://www.police.qld.gov.au/) - *Australian Queensland Police Force Website.*
 * [South Australia Police Force](https://www.police.sa.gov.au/) - *Australian South Australia Police Force Website.*
 * [Western Australia Police Force](https://www.police.wa.gov.au/) - *Australian Western Australia Police Force Website.*
 * [Victorian Police Force](https://www.police.vic.gov.au/) - *Australian Victorian Police Force Website.*
 * [Northern Territory Police Force](https://www.police.vic.gov.au/) - *Australian Northern Territory Police Force Website.*
-* [Australian Federal Police](https://www.afp.gov.au/) - *Australian Federal Police Website.*
 * [Tasmanian Police Force](https://www.police.tas.gov.au/) - *Tasmanian Police Force Website.*
+
+### Australian Intelligence Services
+
+* [Australian Secret Intelligence Service](https://www.asis.gov.au/) - *ASIS is part of the Australian Intelligence Community responsible for the collection of foreign intelligence, including both counter-intelligence and liaising with the intelligence agencies of other countries.*
+* [Australian Security Intelligence Organisation](https://www.asio.gov.au/) - *Australia's national security agency responsible for the protection of the country and its citizens from espionage, sabotage, acts of foreign interference, politically motivated violence, attacks on the Australian defence system, and terrorism.*
+* [Office of National Intelligence Australia](https://www.oni.gov.au/) - *Australian statutory intelligence agency responsible for advising the Prime Minister and National Security Committee, the production of all-source intelligence assessments, and the strategic development and enterprise management of the National Intelligence Community.*
+* [Australian Defence Intelligence Organisation](http://www.defence.gov.au/dio/index.shtml) - *Responsible for strategic intelligence and technical intelligence assessments, advising defence and government decision-making on national security and international security issues, and the planning and conduct of Australian Defence Force operations.*
+* [Australian Signals Directorate](https://www.asd.gov.au/) - *Responsible for foreign signals intelligence, support to military operations, cyber warfare, and information security.*
+* [Australian Geospatial-Intelligence Organisation](http://www.defence.gov.au/ago/) - *Responsible for the collection, analysis, and distribution of geospatial intelligence (GEOINT) in support of Australia's defence and national interests.*
+
+### Australian National Intelligence
+* [Australian Federal Police](https://www.afp.gov.au/) - *National and principal federal law enforcement agency of the Australian Government with the unique role of investigating crime and to protect the national security of the Commonwealth of Australia.*
+* [Australian Criminal Intelligence Commison](https://www.acic.gov.au/) - *Specialist investigative capabilities and delivers and maintains national information sharing solutions.*
+* [Australian Border Force](https://www.abf.gov.au/) - *Protect Australia’s border and enable legitimate travel and trade.*
+* [Australian Transaction Reports and Analysis Centre](https://www.austrac.gov.au/) - *AUSTRAC is an Australian Government agency that uses financial intelligence and regulation to disrupt money laundering, terrorism financing and other serious crime.*
+
+### Australian Cyber Departments
+* [Australian Cyber Security Centre](https://www.cyber.gov.au/) - *Responsible for cybersecurity including analysing, investigating and reporting cyber threats and coordinating national security capabilities and operations for incidents of cybercrime, cyberterrorism, and cyberwarfare.*
 
 ## [↑](#contents) Internet Search Engines
 List of big known search engines used to browse the internet.
