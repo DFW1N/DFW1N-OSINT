@@ -456,7 +456,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 * [Sherlock](https://github.com/sherlock-project/sherlock) - *Hunt down social media accounts by username across social networks.*
 
 
-  [![alt tag](https://im4.ezgif.com/tmp/ezgif-4-14d626bb6000.gif)](https://github.com/sherlock-project/sherlock)    
+  [![alt tag](https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Sherlock%20Example.gif)](https://github.com/sherlock-project/sherlock)    
 
 
 
