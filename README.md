@@ -68,9 +68,10 @@ Below will be listed the Two best known operating systems to start conducting OS
 ## [↑](#contents) Google Hacking
 Google Hacking also known as Dorking is a passive information gathering method it uses queries that might be useful during domain investigation or searching for specific files on the internet on your target or organisation.
 
+* [Google Hacking 101](https://webvivant.com/writing-journalism/sample-features/google-hacking-101/) - *View this to learn Google hacking and take advantage of the benefits from it for OSINT purposes.*
 * [Exploit Database Google Hacking Cheat Sheet](https://www.exploit-db.com/google-hacking-database)
 Examples would be using them in such ways:
-- *Site:*.google.com — Shows all subdomains.*
+- *Site:.google.com — Shows all subdomains.*
 - *intext:exampleword — search for pages on websites that contain the specific word that you are searching for.*
 
 
