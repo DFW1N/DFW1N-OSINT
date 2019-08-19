@@ -2,7 +2,7 @@
 [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="220">](https://github.com/DFW1N/DFW1N-OSINT)
 
 ## How to contribute
-Please feel free to contribute new tools, websites, data or fix spelling mistakes that have been made. Please send all fixes or additional tools through [Pull Requests](https://github.com/DFW1N/DFW1N-OSINT/pulls) so I can approve them and reference check them to ensure they are within the scope of this repository. Please ensure all the websites you add relate to Australia so much sure you can find people, emails,
+Please feel free to contribute new tools, websites, data or fix spelling mistakes that have been made. Please send all fixes or additional tools through [Pull Requests](https://github.com/DFW1N/DFW1N-OSINT/pulls) so I can approve them and reference check them to ensure they are within the scope of this repository. Please ensure all the websites you add relate to Australia to ensure you can find people, emails,
 companies within Australia as a lot of osint respositories depend on United States addresses and names. So they would
 be out of scope for this.
 
