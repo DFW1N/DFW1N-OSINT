@@ -12,6 +12,7 @@ This List is in progress and will be a list specifically on Open Source Intellig
 Contributor:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
 
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
+- [Visit my Site](https://www.crimol.com)
 
 ## Contributing
 Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/CONTRIBUTING.md) file for information if you wish to start contributing to this respository.
@@ -508,7 +509,7 @@ Below will be well known VPN Services to keep you annonymous online and to ensur
 
 
 ## Support
-Please Support me if this has helped you with OSINT Research or investigation by following me on Twitter or connecting with me on LinkedIn.
+Please Support me if this has helped you with OSINT Research or investigation by following me on Twitter or connecting with me on LinkedIn feel free to visit my site at [Crimol](https://www.crimol.com).
 
 [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/logo-twitter-circle-png-transparent-image-1.png" align="left" width="30">](https://twitter.com/sacha_roussakis/)   [@Sacha_Roussakis](https://twitter.com/Sacha_Roussakis)
 
