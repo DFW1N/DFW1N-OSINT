@@ -1,12 +1,12 @@
-  [![alt tag](https://media.giphy.com/media/cOX066ptkLf7xIPDhx/giphy.gif)](https://Twitter.com/Sacha_Roussakis)                          
-## DFW1N Open Source Intelligence Specifically for Australians 
+  [![alt tag](https://media.giphy.com/media/cOX066ptkLf7xIPDhx/giphy.gif)](https://www.crimol.com)                          
+## DFW1N Open Source Intelligence List Australia 
 
 ## Description:
-So you want to do background checks on employees or find a missing person assist in the government finding people this will provide you with plenty of information to get you started this will speed up your process in finding information on your target.
+Conduct background checks on employees or find a missing person that will assist the government finding people. My goal of this repository is to provide information or ideas to assist in your Open Source Intelligence Gathering or Investigation on your target. This repository will provide you with many ideas and information to conduct a thorough search.
 
-This List is in progress and will be a list specifically on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was made for the upcoming The AustCyber Canberra Innovation Node that partnered with the Australian Federal Police, the National Missing Persons Coordination Centre and Trace Labs to conduct a missing person capture the flag (CTF) event (aka Hackathon) this list is designed for Australians who want a quick and easy list for the event to assist them with most resources relating to Australia so it is easier to bring the scope down to persons who have gone missing in Australia.
+Reminder this list is still currently being developed and build on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was designed to assist cyber professionals/Ethical hackers for the upcoming The AustCyber Canberra Innovation Node that partnered with the Australian Federal Police, the National Missing Persons Coordination Centre and Trace Labs to conduct a missing person event. The purpose of this the list is designed to ensure it is easier to find Open Source Intelligence on Australians that have gone missing the purpose is to reduce the scope this list can be used for many other purposes as well not only Open Source Intelligence. 
 
-### Australias Largest Open Source Intelligence Resources Repository
+### Australias Largest Open Source Intelligence Repository
 
 ## [↑](#contents) Credits
 Contributor:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
