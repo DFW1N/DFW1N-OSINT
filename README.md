@@ -1,5 +1,4 @@
-[<img src="https://crimol.com/images/crimol-logo-full-color.png" align="left" width="900">](https://www.crimol.com)
- [![alt tag](https://media.giphy.com/media/cOX066ptkLf7xIPDhx/giphy.gif)](https://www.crimol.com)                          
+            
 ## DFW1N Open Source Intelligence List Australia 
 
 ## Description:
