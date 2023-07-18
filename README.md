@@ -2,11 +2,11 @@
 
 ## Description:
 
-Conduct background checks on employees or find a missing person that will assist the government finding people. My goal of this repository is to provide information or ideas to assist in your Open Source Intelligence Gathering or Investigation on your target. This repository will provide you with many ideas and information to conduct a thorough search.
+Conduct background checks on employees or find a missing person that will assist the government finding people. The goal of this repository is to provide information or ideas to assist in your OSINT investigation on your target. This repository will provide you with many ideas and information to conduct a thorough search.
 
-Reminder this list is still currently being developed and build on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was designed to assist cyber professionals/Ethical hackers for the upcoming The AustCyber Canberra Innovation Node that partnered with the Australian Federal Police, the `National `Missing Persons Coordination Centre and Trace Labs to conduct a missing person event. The purpose of this the list is designed to ensure it is easier to find Open Source Intelligence on Australians that have gone missing the purpose is to reduce the scope this list can be used for many other purposes as well not only Open Source Intelligence.
+A reminder that this list is still currently being developed and is built on OSINT gathering tools to scrape the clear web and deep web for information. This list was designed to assist cyber professionals and ethical hackers for the AustCyber Canberra Innovation Node that partnered with the Australian Federal Police, the `National `Missing Persons Coordination Centre, and Trace Labs to conduct a missing persons event. The purpose of this list is to ensure it is easier to find OSINT on Australians that have gone missing. This list can also be used for many other purposes beyond OSINT.
 
-### Australias Largest Open Source Intelligence Repository
+### Australia's Largest Open Source Intelligence Repository
 
 ## [↑](#contents) Credits
 
@@ -42,7 +42,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Internet Browsers](#-internet-browsers)
 - [Best Browser Add-ons for OSINT](#-best-browser-add-ons-for-osint)
 - [Most Visited Sites](#-most-visited-sites)
-- [Search Australian Vechicle Registrations](#-search-australian-vechicle-registrations)
+- [Search Australian vehicle Registrations](#-search-australian-vehicle-registrations)
 - [Australian Prison System](#-australian-prison-system)
 - [Australian Capital Cities](#-country-capital-cities)
 - [Geolocation Tools & Sites](#-geolocation-tools-&-sites)
@@ -56,49 +56,55 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Dark Web Links](#-dark-web-links)
 - [Freedom Of Information](#-freedom-of-information)
 - [Australian Archives](#-australian-archives)
-- [Aerial Imagery](#-aerial-imagery)
-- [Signals]
-- [Transport]
 
 ## [↑](#contents) Introduction
 
-I have created this for the purposes of Open Source Intelligence Gathering known as (OSINT) this is a guide and cheat sheet or just somthing you can use to speed up your process for Background Checks, Employee Information Scraping, Finding Missing People and much more this list would benefit, Government Agencies, Recruiting Officers, Employees, Managers, Police Services, Intelligence Services and more this has been targeted towards OSINT in Australia only for finding missing people and other reasons.
+I have created this for the purposes of Open Source Intelligence (OSINT) Gathering. This is a guide and cheat sheet you can use to speed up your process for background checks, employee information scraping, missing person searches, and much more. This list would benefit:
 
-Start by downloading a OSINT Operating System (OS), create burner accounts for all social media platforms so you do not use your real information as websites sometimes show who has been on there profile or similar use a VPN or even if your doing it for a short time use a free VPN but dont be sure to rely on free VPN services you get what you pay for and use this list to assist in finding OSINT information on your target good luck.
+- Government Agencies
+- Recruiting Officers
+- Employees
+- Managers
+- Police Services
+- Intelligence Services
+
+... and more. This has been targeted towards OSINT specifically in Australia.
+
+Start by downloading a OSINT Operating System (OS), create burner accounts for all social media platforms so you do not use your real information as some services could alert your target to your investigation. Use a VPN when conducting OSINT investigations, but **do not use a free VPN - they are an information security risk.**
 
 ## [↑](#contents) OSINT Operating Systems
 
-Below will be listed the Two best known operating systems to start conducting OSINT to scrape the wider Internet and Deep web on your target use a Android Emulator to create a burner phone to secure your devices and identity.
+Below are the most popular methods to start conducting OSINT investigations.
 
-### Linux Operating Systems
+### Linux Distros
 
-- [Buscador OS](https://inteltechniques.com/buscador/) - _This Operating System is setup for Investigators and Ethical Hackers for OSINT purposes._
-- [Kali Linux OS](https://www.kali.org/downloads/) - _Kali Linux Operating System is widely used by Offensive Security Teams, Hackers and Ethical Hackers._
+- [Trace Labs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm) - _This VM is set up for investigators and ethical hackers for OSINT._
+- [Kali Linux](https://www.kali.org/downloads/) - _Kali Linux Operating System is widely used by Offensive Security Teams, Hackers and Ethical Hackers._
 
 ### Android Emulators
 
 - [Android Studio’s Emulator](https://developer.android.com/studio/) - _Android Studio provides the fastest tools for building apps on every type of Android device._
 - [BlueStacks](https://www.bluestacks.com/) - _Made mostly for gamers but runs other apps as well._
-- [AMIDuOS](http://android-emulators.com/amiduos) - _AMIDuOS Android emulator by American developers allows using your computer for launching programs that were developed for Android OS._
-- [Genymotion](https://www.genymotion.com/fun-zone/) - _Widely used by developers but also has a free version for personal use._
-- [ARChon](https://github.com/vladikoff/chromeos-apk/blob/master/archon.md) - _ARChon runtime lets you run unlimited number of Android APKs created with chromeos-apk on Chrome OS and across any desktop platform that supports Chrome._
-- [Bliss](https://forum.xda-developers.com/bliss-roms/bliss-roms-development/x86-bliss-x86-pc-s-t3534657) - _Bliss is something a little bit different. It works as an Android emulator for PC via virtual machine._
+- [AMIDuOS](http://android-emulators.com/amiduos) - _Allows your computer to launch Android apps._
+- [Genymotion](https://www.genymotion.com/fun-zone/) - _Widely used by developers and has a free version for personal use._
+- [ARChon](https://github.com/vladikoff/chromeos-apk/blob/master/archon.md) - _Lets you run an unlimited number of Android APKs created with `chromeos-apk`` on Chrome OS and across any desktop platform that supports Chrome._
+- [Bliss](https://forum.xda-developers.com/bliss-roms/bliss-roms-development/x86-bliss-x86-pc-s-t3534657) - _Bliss is a little different; it works as an Android emulator for PC via virtual machine._
 
 ## [↑](#contents) Virtual Machines
 
-- [VirtualBox](https://www.virtualbox.org/) - _VirtualBox is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) they are free to use._
-- [VMware](https://www.vmware.com/au.html) - _VMware is compaitable with [Buscador OS](https://inteltechniques.com/buscador/) and [Kali Linux OS](https://www.kali.org/downloads/) - They are free to use VMware does have a professional version you can purchase if you prefer the professional version over the free version._
+- [VirtualBox](https://www.virtualbox.org/)
+- [VMware](https://www.vmware.com/au.html)
 
-## [↑](#contents) Google Hacking
+## [↑](#contents) Google Dorking
 
-Google Hacking also known as Dorking is a passive information gathering method it uses queries that might be useful during domain investigation or searching for specific files on the internet on your target or organisation.
+Google Dorking is a passive information gathering method. It uses leverages specially crafted Google search queries to isolate pieces of information about your target.
 
 - [Google Hacking 101](https://webvivant.com/writing-journalism/sample-features/google-hacking-101/) - _View this to learn Google hacking and take advantage of the benefits from it for OSINT purposes._
 - [Exploit Database Google Hacking Cheat Sheet](https://www.exploit-db.com/google-hacking-database)
   Examples would be using them in such ways:
 
-* _Site:.google.com — Shows all subdomains._
-* _intext:exampleword — search for pages on websites that contain the specific word that you are searching for._
+* _**site:.google.com** — Shows all subdomains._
+* _**intext:exampleword** — search for pages on websites that contain the specific word that you are searching for._
 
 ## [↑](#contents) Live Cams Australia
 
@@ -112,22 +118,22 @@ Have you seen anything suspicious happening in these live cams streaming all aro
 
 ## [↑](#contents) Online Fake Identification
 
-So you are making burn accounts to do your OSINT on the internet and deep web wouldnt it be easy for you to create a quick easy fake identity online to save to a notepad to remember your fake address, username, email, burner phone numbers these websites will assist you in creating a fake identity in a matter of minutes to help with OSINT on burn accounts.
+So you are making burner accounts to do your OSINT on the internet and deep web. Wouldn't it be helpful for you to create a quick easy fake identity online to save to a notepad to remember your fake address, username, email, burner phone numbers? These websites will assist you in creating a fake identity in a matter of minutes to help with your investigation.
 
-- [Burner Mobile Numbers](https://www.mytrashmobile.com/numbers) - _mobile numbers to verify yourself to any service as Facebook or WhatsApp._
+- [Burner Mobile Numbers](https://www.mytrashmobile.com/numbers) - _Mobile numbers to verify yourself to any service as Facebook or WhatsApp._
 - [New York Address Generator](https://www.randomlists.com/new-york-addresses) - _Use generated Addresses for your online fake identity to sign up to sites._
 - [Burner](https://www.burnerapp.com/) - _Burner is the original second phone number app for calling, texting and picture messaging, however this isnt free._
 - [RecieveSMS](https://www.receivesms.org/) - _They are a service that allows you to use our free phone numbers to receive SMS online and anonymously._
 - [Random Address Generator](https://www.fakepersongenerator.com/random-address) - _Generated addresses covering all cities and states in the United States._
-- [SpinXO Username Generator](http://www.spinxo.com/) - _Use there username generator to combine various popular keywords with your name, words that are important to you or characterize you and your personality._
-- [TempSMS](https://www.temp-sms.org) - _Recieve SMS online instantly using New Zealand burner mobile numbers._
+- [SpinXO Username Generator](http://www.spinxo.com/) - _Use their username generator to combine various popular keywords with your name, words that are important to you or characterize you and your personality._
+- [TempSMS](https://www.temp-sms.org) - _Receive SMS online instantly using New Zealand burner mobile numbers._
 
 ## [↑](#contents) Large Free Email Providers
 
 This list will provide you with the largest email providers to assist you in either creating burner accounts or running email scrapes against there email domain servers on your target.
 
 - [Protonmail](https://protonmail.com/) - _This Email Provider is based in Switzerland and has encryption protection used as @protonmail.com._
-- [Outlook Live](https://outlook.live.com/owa/) - _Used as @outlook.com @hotmail._
+- [Outlook Live](https://outlook.live.com/owa/) - _Used as @outlook.com and @hotmail.com_
 - [iCloud](https://www.icloud.com/#mail) - _Most Mac, iPad, and iPhone users have an account used as @icloud.com._
 - [Zoho Mail](https://www.zoho.com/mail/) - _Zoho Mail is part of a larger office productivity suite._
 - [GMX Mail](https://www.gmx.com/) - _One of Germany’s largest internet service providers used as @gmx.com & @gmx.ch._
@@ -153,9 +159,7 @@ This list will provide you with the largest email providers to assist you in eit
 - [Facebook Search Basics](http://search.fb.com/) - _Learn to use Facebook Search take advantage of it to find out data on your target._
 - [Facebook ID Identifier](https://lookup-id.com/) - _Lookup-ID.com helps you to find the Facebook ID for your profile or a Group._
 - [Facebook Information Publisher](http://zesty.ca/facebook/) - _What does Facebook publish about you and your friends?_
-- [Facebook Social Monitoring](https://www.fanpagekarma.com/social-monitoring) - _People are talking about you, your brand and your industry
-  all around the social web. Fanpage Karma Social Monitoring
-  shows you, what they are talking about._
+- [Facebook Social Monitoring](https://www.fanpagekarma.com/social-monitoring) - _People are talking about you, your brand and your industry all around the social web. Fanpage Karma Social Monitoring shows you what they are talking about._
 - [ExtractFace](https://sourceforge.net/projects/extractface/) - _Investigators, researchers or other analysts often have to get local copies of Facebook data._
 - [Facebook Sleep Status](https://github.com/sqren/fb-sleep-stats) - _A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern._
 
@@ -164,10 +168,10 @@ This list will provide you with the largest email providers to assist you in eit
 - [Twitter Search Basics](http://search.twitter.com)
 - [Twitter Search Advanced](https://twitter.com/search-advanced?lang=en)
 - [Obtain Twitter IDs](http://gettwitterid.com)
-- [Audit Twitter Followers](https://www.twitteraudit.com) - _Find out how many of your targets followers are real are they buying twitter followers?_
-- [Find Twitter First Follower](https://socialrank.com/firstfollower) - _Who was your targets first follower or maybe yours?_
-- [Hashtagify](https://hashtagify.me/hashtag/tbt) - _Monitor your performance, exploit the best hashtag suggestions and identify Twitter influencers. All in one place._
-- [Foller](https://foller.me/) - _Twitter analytics application that gives you rich insights about any public Twitter profile. We gather near real-time data about topics, mentions, hashtags, followers, location and more!_
+- [Audit Twitter Followers](https://www.twitteraudit.com) - _Find out how many of your targets followers are real. Are they buying twitter followers?_
+- [Find Twitter First Follower](https://socialrank.com/firstfollower) - _Who was your targets first follower, or maybe yours?_
+- [Hashtagify](https://hashtagify.me/hashtag/tbt) - _Monitor your performance, exploit the best hashtag suggestions and identify Twitter influencers all in one place._
+- [Foller](https://foller.me/) - _Twitter analytics application that gives you rich insights about any public Twitter profile. Gathers near real-time data about topics, mentions, hashtags, followers, location and more!_
 
 ## LinkedIn Tools
 
@@ -177,7 +181,7 @@ This list will provide you with the largest email providers to assist you in eit
 
 ## [↑](#contents) Australian Dating Networks
 
-You may find informaiton on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything releated to your target.
+You may find information on your target on these dating websites or find them listed on it, it could become a potential lead to find out if they were listed on a dating site before they went missing or anything related to your target.
 
 - [Tinder](https://www.tinder.com)
 - [eharmony Australia](https://www.eharmony.com.au/)
@@ -191,11 +195,11 @@ You may find informaiton on your target on these dating websites or find them li
 
 ## [↑](#contents) Username Identifiers
 
-The person you are searching do you know the username they go under like on reddit, xbox, playstation, steam here are some links that scan through sites to find what sites they are registered on.
+Some links that scan through sites to find where your target is registered:
 
 - [Knowem](http://www.Knowem.com) - _Searches for usernames on social media sites._
 - [User Search](http://www.usersearch.org) - _Searches for usernames on social media sites._
-- [Xbox Username Checker](https://www.xboxgamertag.com/) - _Search for you're targets gamer tag on xbox when was the last time they where online?_
+- [Xbox Username Checker](https://www.xboxgamertag.com/) - _Search for your target's gamer tag on xbox when was the last time they were online?_
 - [Check Usernames](www.checkusernames.com) - _Check the use of your brand or username on 160 Social Networks._
 
 ## [↑](#contents) Person Investigations
@@ -205,13 +209,13 @@ This will assist you with quick references to websites that could speed up your 
 ### Australia
 
 - [Australian Person Lookup](https://personlookup.com.au/) - _7 million records Multiple, authoritative sources with enhanced data for over 7M people Australia wide._
-- [Australian Public Records](https://australiapublicrecord.com/people-finder/) - _If you are looking for someone in Australia then the chances are good that you will find them._
+- [Australian Public Records](https://australiapublicrecord.com/people-finder/) - _If you are looking for someone in Australia then there is a decent chance they can be found on this site._
 - [Early Australian Census Records](https://guides.slv.vic.gov.au/earlycensus/findpeople) - _Only some records of individuals have survived. This guide lists all known Australian census and muster records at State Library Victoria or online._
 - [National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx) - _RecordSearch contains names and images of Indigenous Australians now deceased, you may find background history of your targets family history here._
 - [Missing Persons Australia](https://missingpersons.gov.au/view-all-profiles)
 - [White Pages (AU)](https://www.whitepages.com.au/residential)
 - [People Search (Australia)](http://www.peoplesearch.com.au) - _Free Australian people finder. Whether you're looking to find an old friend from school, military buddy, lost love, or anyone else, People Search has you covered._
-- [Facesearch](http://facesaerch.com) - Search for images of a person by name.
+- [Facesearch](http://facesaerch.com) - _Search for images of a person by name._
 - [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
 - [Family Search](https://familysearch.org)
 - [Ancestry Australia](https://www.ancestry.com.au/)
@@ -260,22 +264,22 @@ This list is the main job search networks used in Australia to find job employme
 
 ## [↑](#contents) Online Alerts
 
-Specifically use these to get alerts when somthing changes or is posted with specific enteries online. Wouldn't be a bad idea to put alerts on your targets social media accounts or name online.
+Specifically use these to get alerts when something changes or is posted with specific entries online. Wouldn't be a bad idea to put alerts on your targets social media accounts or name online.
 
 - [Google Alert](https://www.google.com.au/alerts) - _Create Google Alerts._
 - [Mention](https://mention.com/en/) - _Get live updates about your brand from the web and social media._
 - [Talkwalker Alerts](https://www.talkwalker.com/alerts) - _Monitor the Web for interesting new content about your name, brand, competitors, events or any favorite topic with Talkwalker Alerts!_
-- [Meltwater](https://www.meltwater.com/au/) - _Social and marketing teams go beyond media monitoring. Try Monitoring your targets bussiness or organisation._
+- [Meltwater](https://www.meltwater.com/au/) - _Social and marketing teams go beyond media monitoring. Try Monitoring your targets business or organisation._
 - [PasteLert](https://andrewmohawk.com/pasteLert/) - _Set up alerts (like google alerts) for pastebin.com entries._
 - [VisualPing](https://visualping.io/) - _Select an area and relax: We’ll send you an email alert when something changes._
 
 ## [↑](#contents) Email Data Dumps
 
-Assuming you have know or have obtained your targets email you can always check if there email has been compromised which results in Email data dump and password dumps and what if you got a encrypted text relating to the password data dump use the tools I list below to help you with getting the informaiton on your target or even yourself.
+Assuming you know or have obtained your target's email address, you can check if their email has been compromised. A compromised email could lead to hashed, encrypted, or even plaintext passwords as well as more personally-identifiable information.
 
-- [Haveibeenpwned](https://haveibeenpwned.com/) - _Check if you have an account that has been compromised in a data breach_
-- [DeHashed](https://www.dehashed.com/) - _Display usernames & passwords from an account that has been compromised in a data breach_
-- [Citadel](http://citadel.pw) - _Display usernames & passwords from an account that has been compromised in a data breach_
+- [Haveibeenpwned](https://haveibeenpwned.com/) - _Check if you have an account that has been compromised in a data breach._
+- [DeHashed](https://www.dehashed.com/) - _Display usernames & passwords from an account that has been compromised in a data breach._
+- [Citadel](http://citadel.pw) - _Display usernames & passwords from an account that has been compromised in a data breach._
 - [MD5 Cracking and Hashing](https://md5decrypt.net/en/) - _Crack MD5 Hashes. This website also provides many other hash cracking tools such as SHA-512 decryption, SHA-256, Morse Code Decoding etc._
 
 ## [↑](#contents) Australian Police and Intelligence Services
@@ -291,6 +295,7 @@ This section is dedicated to assist Australian, Ethical hackers, Police Services
 - [Victorian Police Force](https://www.police.vic.gov.au/) - _Australian Victorian Police Force Website._
 - [Northern Territory Police Force](https://www.police.vic.gov.au/) - _Australian Northern Territory Police Force Website._
 - [Tasmanian Police Force](https://www.police.tas.gov.au/) - _Tasmanian Police Force Website._
+- [Australian Federal Police](https://www.afp.gov.au/) - _National and principal federal law enforcement agency of the Australian Government with the unique role of investigating crime and to protect the national security of the Commonwealth of Australia._
 
 ### Australian Intelligence Services
 
@@ -300,17 +305,13 @@ This section is dedicated to assist Australian, Ethical hackers, Police Services
 - [Australian Defence Intelligence Organisation](http://www.defence.gov.au/dio/index.shtml) - _Responsible for strategic intelligence and technical intelligence assessments, advising defence and government decision-making on national security and international security issues, and the planning and conduct of Australian Defence Force operations._
 - [Australian Signals Directorate](https://www.asd.gov.au/) - _Responsible for foreign signals intelligence, support to military operations, cyber warfare, and information security._
 - [Australian Geospatial-Intelligence Organisation](http://www.defence.gov.au/ago/) - _Responsible for the collection, analysis, and distribution of geospatial intelligence (GEOINT) in support of Australia's defence and national interests._
-
-### Australian National Intelligence
-
-- [Australian Federal Police](https://www.afp.gov.au/) - _National and principal federal law enforcement agency of the Australian Government with the unique role of investigating crime and to protect the national security of the Commonwealth of Australia._
 - [Australian Criminal Intelligence Commison](https://www.acic.gov.au/) - _Specialist investigative capabilities and delivers and maintains national information sharing solutions._
 - [Australian Border Force](https://www.abf.gov.au/) - _Protect Australia’s border and enable legitimate travel and trade._
 - [Australian Transaction Reports and Analysis Centre](https://www.austrac.gov.au/) - _AUSTRAC is an Australian Government agency that uses financial intelligence and regulation to disrupt money laundering, terrorism financing and other serious crime._
 
 ### Australian Cyber Departments
 
-- [Australian Cyber Security Centre](https://www.cyber.gov.au/) - _Responsible for cybersecurity including analysing, investigating and reporting cyber threats and coordinating national security capabilities and operations for incidents of cybercrime, cyberterrorism, and cyberwarfare._
+- [Australian Cyber Security Centre](https://www.cyber.gov.au/) - _Responsible for analysis, investigation and reporting of cyber threats and coordinating national security capabilities and operations for incidents of cybercrime, cyberterrorism, and cyberwarfare._
 
 ## [↑](#contents) Internet Search Engines
 
@@ -370,8 +371,6 @@ List of big known search engines used to browse the internet.
 
 ## [↑](#contents) Internet Browsers
 
-This section will list known Internet Browsers.
-
 - [Opera](http://www.opera.com)
 - [Chrome](https://www.google.com/chrome)
 - [Safari](http://www.apple.com/safari)
@@ -382,7 +381,7 @@ This section will list known Internet Browsers.
 - [Brave](https://brave.com)
 - [Yandex Browser](https://browser.yandex.com/desktop/main)
 - [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
-- [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that allows you to access the Dark Web without being tracked mainly used to browse the deep web or stay annonymous online.
+- [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - _TOR is a free software that allows you to access the Dark Web without being tracked. Mainly used to browse the deep web or stay anonymous online._
 
 ## [↑](#contents) Most Visited Sites
 
@@ -411,18 +410,18 @@ This Section will list the most visited sites in Australia the benefit of this l
 - [NTD News](https://www.ntd.com/)
 - [Apple Australia](https://www.apple.com/au/)
 
-## [↑](#contents) Search Australian Vechicle Registrations
+## [↑](#contents) Search Australian Vehicle Registrations
 
-Find out what type of car your target, employee, boss or company has what colour, engine type, brand is it this information would benefit you if you find there registration plate number this information could be used to locate their car passing through live cams on Australian highways to find out where your target was heading towards or dissapeared at this could unlock a whole new piece of information on your targets location it gives you the ability to find out where they were heading if you find it the direction the vechicle was traveling.
+Find out what type of car your target, employee, boss or company has what colour, engine type, brand is it this information would benefit you if you find there registration plate number this information could be used to locate their car passing through live cams on Australian highways to find out where your target was heading towards or disappeared at this could unlock a whole new piece of information on your targets location it gives you the ability to find out where they were heading if you find it the direction the vehicle was traveling.
 
-- [Service New South Wales](https://www.service.nsw.gov.au/transaction/check-vehicle-registration) - _Check you're targets vechicle registration here in the state of NSW._
-- [Vicroads Victoria](https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/check-vehicle-registration/vehicle-registration-enquiry) - _Check you're targets vechicle registration here in the state of VIC._
-- [Queensland Roads](https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=5326) - _Check you're targets vechicle registration here in the state of QLD._
-- [Northern Territory Motor Vehicle Registry](https://nt.gov.au/driving/rego/check,-renew-or-transfer-your-registration/rego-check) - _Check you're targets vechicle registration here in the state of NT._
-- [Transport Tasmania](https://www.transport.tas.gov.au/MRSWebInterface/public/regoLookup/registrationLookup.jsf) - _Check you're targets vechicle registration here in the state of TAS._
-- [South Austalia EzyReg](https://www.ecom.transport.sa.gov.au/et/checkRegistrationExpiryDate.do) - _Check you're targets vechicle registration here in the state of SA._
-- [Department of Transport Western Australia](https://online.transport.wa.gov.au/webExternal/registration/?0) - _Check you're targets vechicle registration here in the state of WA._
-- [Australian Capital Territory Transport](https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage;jsessionid=2E28D04D5F4C72501411202604EB7CE7?0) - _Check you're targets vechicle registration here in the state of ACT._
+- [Service New South Wales](https://www.service.nsw.gov.au/transaction/check-vehicle-registration) - _Check you're targets vehicle registration here in the state of NSW._
+- [Vicroads Victoria](https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/check-vehicle-registration/vehicle-registration-enquiry) - _Check you're targets vehicle registration here in the state of VIC._
+- [Queensland Roads](https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=5326) - _Check you're targets vehicle registration here in the state of QLD._
+- [Northern Territory Motor Vehicle Registry](https://nt.gov.au/driving/rego/check,-renew-or-transfer-your-registration/rego-check) - _Check you're targets veihcle registration here in the state of NT._
+- [Transport Tasmania](https://www.transport.tas.gov.au/MRSWebInterface/public/regoLookup/registrationLookup.jsf) - _Check you're targets vehicle registration here in the state of TAS._
+- [South Australia EzyReg](https://www.ecom.transport.sa.gov.au/et/checkRegistrationExpiryDate.do) - _Check you're targets vehicle registration here in the state of SA._
+- [Department of Transport Western Australia](https://online.transport.wa.gov.au/webExternal/registration/?0) - _Check you're targets vehicle registration here in the state of WA._
+- [Australian Capital Territory Transport](https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage) - _Check you're targets vehicle registration here in the state of ACT._
 
 ### Live Traffic Cameras for OSINT Gathering
 
@@ -432,9 +431,13 @@ Find out what type of car your target, employee, boss or company has what colour
 
 ## [↑](#contents) Australian Prison System
 
-Is your target from prison or family, maybe a person went missing near a jail this section will list, how to locate Australian prisoners, corrective services in australia and prison locations for quick OSINT research of areas that could pose a risk to the Australian society if somthing was to happen in the surrounding area.
+Is your target from prison? Maybe a person went missing near a jail. This section will list:
 
-## Australian Corrective Services
+- How to locate Australian prisoners
+- Corrective services in Australia
+- Prison locations
+
+... for quick OSINT research of areas that could pose a risk to the Australian society if something was to happen in the surrounding area.
 
 - [New South Wales Corrective Services](https://www.correctiveservices.justice.nsw.gov.au/)
 - [Department for Corrective Services South Australia](https://www.corrections.sa.gov.au/)
@@ -460,18 +463,18 @@ Is your target from prison or family, maybe a person went missing near a jail th
 
 These programs and tools can be used for OSINT Research to try get a understanding of the area and the surroundings to research the area for any clues in the surrounding area that could help with person finding.
 
-#### Tools
+### Tools
 
 - [Google Earth Pro](https://www.google.com/earth/versions/#download-pro)
 - [Creepy](http://www.geocreepy.com/) - _A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms._
 - [Echosec](https://www.echosec.net/) - _However this is a alternate for data discovery for threat intelligence it does cost $500 a month._
 
-#### Sites
+### Sites
 
 - [Open Street Map](https://www.openstreetmap.org/)
 - [Google Earth](https://www.google.com/earth/)
 - [Maps Me (Mobile Offline Maps)](https://maps.me/)
-- [NASA WorldWind](https://worldwind.arc.nasa.gov/) - _WorldWind is an open source virtual globe API._)
+- [NASA WorldWind](https://worldwind.arc.nasa.gov/) - _WorldWind is an open source virtual globe API._
 - [City Mapper](https://citymapper.com/?lang=en) - _Find out what services, shops, locations etc was from the area to find details on the person._
 - [Leaflet](https://leafletjs.com/) - _open-source JavaScript library for mobile-friendly interactive maps for developers._
 - [IP Geolocation](https://tools.keycdn.com/geo)
@@ -487,13 +490,13 @@ These programs and tools can be used for OSINT Research to try get a understandi
 - [OSINT Framework](https://osintframework.com/) - _OSINT framework focused on gathering information from free tools or resources._
 - [Grabify](https://www.grabify.link) - _Grabify IP Logger by Creating or Track URLs that you create you can find out there IP, location, Service provider, device being used this type of method is used if you are getting catfished or trying to get further information on your target._
 
-## Barcode Readers & Generators
+## [↑](#contents) Barcode Readers & Generators
 
 - [Online Barcode Reader](https://www.onlinebarcodereader.com/) - _You never know when you may come across a Barcode that your target may have posted or used somewhere._
 - [ByteScout Barcode Reader](https://app.bytescout.com/barcode-reader/barcode-reader.html) - _Barcode Reader._
-  *[Barcode Generator](https://www.barcodesinc.com/generator/index.php) - *Read barcodes and generate your own barcodes.\*
+- [Barcode Generator](https://www.barcodesinc.com/generator/index.php) - _Read barcodes and generate your own barcodes._
 
-## Automated OSINT Tools
+## [↑](#contents) Automated OSINT Tools
 
 - [Photon](https://github.com/s0md3v/Photon) - _Incredibly fast crawler designed for OSINT._
 - [Zen](https://github.com/s0md3v/Zen) - _Find email address of a user through the github website._
@@ -522,27 +525,27 @@ These programs and tools can be used for OSINT Research to try get a understandi
 
 ## [↑](#contents) Mobile Forensics
 
-So your target has called you or you have found there number use these OSINT tools to assist with your investigation or background checks or however you want to use these resources.
+So you have your target's phone number. Use these OSINT tools to assist with your investigation or background checks:
 
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - _PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources._
 - **PayID** - _Your target may have registered their phone number (or email address, ABN, etc.) with PayID through their bank. You can check this by passing their phone number through your own bank's PayID system - you may be able to retrieve full names or other key pieces of information._
 
 ## [↑](#contents) Australian Credit Checks
 
-So lets assume you have done a fair enough of OSINT gathering on your target and you have managed to get the basics of there details why not take it a step further and use those details to do a credit check on them this would increase your profile on your target as this may unlock, unpaid bills from missing or maybe there bills are up to date who knows.
+So let's assume you have done a fair amount of OSINT gathering on your target and you have managed to get the basics of their details. Why not take it a step further and use those details to do a credit check on them? This would increase your profile on your target as this may unlock unpaid bills or outstanding debts.
 
-- [Free Credit Check](https://www.getcreditscore.com.au/) - _You would need to create an account with this site with the details you have obtained during your OSINT investigation or research._
+- [Free Credit Check](https://www.getcreditscore.com.au/) - _You would theoretically need to create an account on this site with the details you have obtained during your OSINT investigation._ **Do not commit identity theft. This document does not condone identity theft, in fact, it condemns it in the strongest of terms.**
 - [Finder Credit Check (AU)](https://www.finder.com.au/credit-score/login) - _Account required._
 
 ## [↑](#contents) Australian ABN Look Up
 
-So you may have found the company or name of your target why not search if they have a ABN you may find some interesting details thats free and open source that could help you with your investigation or leads.
+You may have found the company or name of your target. Why not check if they have a ABN? You may find some interesting details that are free and open source that could help you with your investigation.
 
-- [ABN Search](https://abr.business.gov.au/) - Trading names to continue to be displayed for a further five years, ABN Lookup will continue to display trading names for a further five years until 31 October 2023.
+- [ABN Search](https://abr.business.gov.au/) - _Trading names to continue to be displayed for a further five years, ABN Lookup will continue to display trading names for a further five years until 31 October 2023._
 
 ## [↑](#contents) Report Generators
 
-So now after you have so much information on your target you can use these report generator programs to do it automation or atleast assist you with generating a report at a fast rate, develop a report using these.
+After you have enough information on your target, you can use these tools to assist in generating a final report:
 
 - [Canva](https://www.canva.com/create/reports/) - _An engaging report is all about presenting your information clearly and beautifully. It could be an annual company report, sales report, budget report, expense report; even a white paper._
 - [Reportivo](http://reportivo.com/create) - _Upload the data for your report in Excel or CSV format._
@@ -550,7 +553,7 @@ So now after you have so much information on your target you can use these repor
 
 ## [↑](#contents) VPN Services
 
-Below will be well known VPN Services to keep you annonymous online and to ensure you cannot be tracked by hackers or others especially when browsing the dark web or scraping information from sites on the wider internet.
+Below are popular VPN services to keep your IP address hidden when browsing the internet.
 
 ### VPN Services
 
@@ -605,8 +608,6 @@ Your target may have been mentioned in an old newspaper article or other archive
 - [National Archives of Australia](https://www.naa.gov.au/) - _The NAA are suited for searches of government records, and may contain some helpful information._
 - [National Film and Sound Archive of Australia](https://www.nfsa.gov.au/)
 - [Australian Broadcasting Corporation Archives](https://www.abc.net.au/archives/contact.htm)
-
-## [↑](#contents) Aerial Imagery
 
 ## Support
 
