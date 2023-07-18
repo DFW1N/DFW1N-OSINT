@@ -272,7 +272,7 @@ Assuming you have know or have obtained your targets email you can always check 
 - [Haveibeenpwned](https://haveibeenpwned.com/) - _Check if you have an account that has been compromised in a data breach_
 - [DeHashed](https://www.dehashed.com/) - _Display usernames & passwords from an account that has been compromised in a data breach_
 - [Citadel](http://citadel.pw) - _Display usernames & passwords from an account that has been compromised in a data breach_
-- [MD5 Decryption and Encryption](https://md5decrypt.net/en/) - _Decrypt MD5 Hashes this website also provides many other decryption tools such as Sha512 decryption, Sha256, Morse Code Decryption etc._
+- [MD5 Cracking and Hashing](https://md5decrypt.net/en/) - _Crack MD5 Hashes. This website also provides many other hash cracking tools such as SHA-512 decryption, SHA-256, Morse Code Decoding etc._
 
 ## [↑](#contents) Australian Police and Intelligence Services
 
