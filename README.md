@@ -54,6 +54,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [VPN Services](#-vpn-services)
 - [Dark Web Links](#-dark-web-links)
 - [Freedom Of Information](#-freedom-of-information)
+- [Australian Archives](#-australian-archives)
 
 ## [↑](#contents) Introduction
 
@@ -591,6 +592,15 @@ Every state and territory jurisdiction as well as the Commonwealth has a _Freedo
 - [WA - Freedom of Information Act 1992](https://www.legislation.wa.gov.au/legislation/statutes.nsf/main_mrtitle_353_homepage.html)
 
 - [NT - Information Act 2002](https://legislation.nt.gov.au/Legislation/INFORMATION-ACT-2002)
+
+## [↑](#contents) Australian Archives
+
+Your target may have been mentioned in an old newspaper article or other archived media. You can use the following services to attempt to dig up any relevant information:
+
+- [Trove](https://trove.nla.gov.au/) - _Trove is a vast archive of Australian media made available for free online by the National Library of Australia. It is an invaluable investigation resource._
+- [National Archives of Australia](https://www.naa.gov.au/) - _The NAA are suited for searches of government records, and may contain some helpful information._
+- [National Film and Sound Archive of Australia](https://www.nfsa.gov.au/)
+- [Australian Broadcasting Corporation Archives](https://www.abc.net.au/archives/contact.htm)
 
 ## Support
 
