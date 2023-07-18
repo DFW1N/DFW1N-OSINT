@@ -519,6 +519,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 So your target has called you or you have found there number use these OSINT tools to assist with your investigation or background checks or however you want to use these resources.
 
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - _PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources._
+- **PayID** - _Your target may have registered their phone number (or email address, ABN, etc.) with PayID through their bank. You can check this by passing their phone number through your own bank's PayID system - you may be able to retrieve full names or other key pieces of information._
 
 ## [↑](#contents) Australian Credit Checks
 
