@@ -53,6 +53,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Report Generators](#-report-generators)
 - [VPN Services](#-vpn-services)
 - [Dark Web Links](#-dark-web-links)
+- [Freedom Of Information](#-freedom-of-information)
 
 ## [↑](#contents) Introduction
 
@@ -564,6 +565,32 @@ _There are many other VPN Services this is just a handful look around find one t
 ## [↑](#contents) Dark Web Links
 
 - [Deep Web Links](https://thehiddenwiki.org)
+
+## [↑](#contents) Freedom Of Information
+
+Every state and territory jurisdiction as well as the Commonwealth has a _Freedom Of Information_ (FOI) Act. These pieces of legislation allow anyone to request publication of a vast range of documents held by the governments of Australia. **Note that the specifics of FOI requests differ between jurisdictions, and legislation is often amended.**
+
+- [FOI Explainer](https://www.oaic.gov.au/freedom-of-information)
+- [Right To Know](https://www.righttoknow.org.au/) - _Right To Know is a centralised public repository of thousands of FOI requests and their responses from across Australia. You can also use this as a tool to submit FOI requests without the hassle of enumerating department contact details._
+- **Disclosure Logs** - _Most government departments (state, territory, and Commonwealth) publish disclosure logs, which are essentially FOI directories displaying requests made by the public and their outcome and/or response._
+
+- [CTH - Freedom of Information Act 1982](https://www.oaic.gov.au/freedom-of-information)
+
+- [ACT - Freedom of Information Act 2016](www.legislation.act.gov.au/a/2016-55/default.asp)
+
+- [NSW - Freedom of Information Act 1989](https://legislation.nsw.gov.au/view/whole/html/inforce/2009-01-01/act-1989-005)
+
+- [QLD - Right to Information Act 2009](https://www.legislation.qld.gov.au/view/pdf/inforce/current/act-2009-013)
+
+- [VIC - Freedom of Information Act 1982](https://www.legislation.vic.gov.au/in-force/acts/freedom-information-act-1982/)
+
+- [TAS - Right to Information Act 2009](https://www.legislation.tas.gov.au/view/html/inforce/current/act-2009-070)
+
+- [SA - Freedom of Information Act 1991](https://www.legislation.sa.gov.au/lz?path=%2FC%2FA%2FFREEDOM%20OF%20INFORMATION%20ACT%201991)
+
+- [WA - Freedom of Information Act 1992](https://www.legislation.wa.gov.au/legislation/statutes.nsf/main_mrtitle_353_homepage.html)
+
+- [NT - Information Act 2002](https://legislation.nt.gov.au/Legislation/INFORMATION-ACT-2002)
 
 ## Support
 
