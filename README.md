@@ -58,6 +58,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Australian Archives](#-australian-archives)
 - [Radio/Signal Broadcasts](#↑-radiosignal-broadcasts)
 - [Aerial Imagery](#↑-aerial-imagery)
+- [Transport](#↑-transport)
 
 ## [↑](#contents) Introduction
 
@@ -641,3 +642,13 @@ Other providers include State/Territory governments themselves. The ACT and NSW 
 
 - [NSW](https://portal.spatial.nsw.gov.au/portal/apps/webappviewer/index.html?id=f7c215b873864d44bccddda8075238cb)
 - [ACT mapi](https://apps.vertigisstudio.com/web/?app=8e7485a3d9a54f038682e1cb00cd7a31)
+
+## [↑](#contents) Transport
+
+### Flights
+
+Like pretty much anywhere else in the world, you can track Australian airlines and flights with flight trackers like [Flightradar24](https://www.flightradar24.com/).
+
+### Public Transport
+
+Many jurisdictions have open data feeds that provide current or near-current information about public transport systems. The ACT has a data feed for their ACTION buses as well as live data feeds for their tram system. More information canb e found [here](https://www.transport.act.gov.au/contact-us/information-for-developers). If you have access to the Google Maps API, you can get a general interface into most jurisdictions' transport systems where Google has already done the API integration work for you. More info can be found [here](https://developers.google.com/maps/documentation/javascript/get-api-key).
