@@ -62,6 +62,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Courts & Tribunal Hearings](#↑-courts-and-tribunal-hearings)
 - [Government Tenders & Contracts](#↑-tenders-and-contracts)
 - [Intellectual Property & Trade Marks](#↑-intellectual-property--trade-marks)
+- [Intellectual Property & Trade Marks](#↑-public-service-gazettes)
 
 ## [↑](#contents) Introduction
 
@@ -701,3 +702,13 @@ IP Australia offers a search function for trade marks and copyright. This may he
 
 - [IP Australia Search](https://search.ipaustralia.gov.au/trademarks/search/quick)
 - [NAA Historic Copyright Records](https://www.naa.gov.au/help-your-research/fact-sheets/copyright-records)
+
+## [↑](#contents) Public Service Gazettes
+
+Most governments in Australia publish employment gazettes. These documents contain the names of new internal employees within the public service. You're not going to find any ASIO agents this way, but they can offer some quick wins if you have a full name to use within your investigation:
+
+- [APS Gazette](https://www.apsjobs.gov.au/s/gazette)
+- [ACT](https://www.jobs.act.gov.au/how-we-hire/gazettes)
+- [NSW](https://legislation.nsw.gov.au/gazette)
+
+etc., you can easily Google the rest.
