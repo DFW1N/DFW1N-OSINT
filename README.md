@@ -57,6 +57,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Freedom Of Information](#-freedom-of-information)
 - [Australian Archives](#-australian-archives)
 - [Radio/Signal Broadcasts](#↑-radiosignal-broadcasts)
+- [Aerial Imagery](#↑-aerial-imagery)
 
 ## [↑](#contents) Introduction
 
@@ -627,3 +628,16 @@ Many Australian radio and signal feeds are streamed and/or archived across the w
 - https://www.broadcastify.com/listen/feed/41421
 
 These feeds can be incredibly useful. The ABC used this particular feed to [time the emergency response](https://www.abc.net.au/news/2021-08-01/how-abc-exposed-communications-breakdown-orroral-valley-fire/100340210) to the Namadgi bushfire in January 2020.
+
+## [↑](#contents) Aerial Imagery
+
+Beyond satellite data from providers like MODIS, Australian jurisdictions often release aerial imagery and other geospatial data through public GIS servers (often running ArcGIS behind the scenes).
+
+Geoscience Australia has a vast online collection of historic aerial imagery that is available for free access:
+
+- [Geoscience Australia](https://geoscience-au.maps.arcgis.com/apps/webappviewer/index.html?id=06161d013fe645e2bccfd8e961b0e212)
+
+Other providers include State/Territory governments themselves. The ACT and NSW governments both provide ArcGIS access to historic and current(ish) aerial imagery:
+
+- [NSW](https://portal.spatial.nsw.gov.au/portal/apps/webappviewer/index.html?id=f7c215b873864d44bccddda8075238cb)
+- [ACT mapi](https://apps.vertigisstudio.com/web/?app=8e7485a3d9a54f038682e1cb00cd7a31)
