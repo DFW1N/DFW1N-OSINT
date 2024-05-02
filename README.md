@@ -60,6 +60,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Aerial Imagery](#↑-aerial-imagery)
 - [Transport](#↑-transport)
 - [Courts & Tribunal Hearings](#↑-courts-and-tribunal-hearings)
+- [Government Tenders & Contracts](#↑-tenders-and-contracts)
 
 ## [↑](#contents) Introduction
 
@@ -674,3 +675,17 @@ The Federal courts (including the High Court) provide regularly updated hearing 
 
 - https://www.hcourt.gov.au/registry/court-lists
 - https://www.fedcourt.gov.au/court-calendar/daily-court-lists (per-jurisdiction)
+
+## [↑](#contents) Tenders and Contracts
+
+Each government around Australia contracts out certain activities to private third parties. Tenders (proposals for this work) and contracts (agreements between 3rd parties and the government to complete the work and constraints, etc.) are publicly available to different degrees depending on jurisdiction. The Commonwealth's one-stop shop for contracts and tenders is [AusTender](https://www.tenders.gov.au/). Each state and territory provides their contract listings to varying degrees of accessibility.
+
+- [ACT](https://www.procurement.act.gov.au/registers/contracts-register)
+- [NSW](https://www.tenders.nsw.gov.au/)
+- [QLD](https://qtenders.epw.qld.gov.au/)
+- [SA](https://www.tenders.sa.gov.au/)
+- [WA](https://www.tenders.wa.gov.au/watenders/index.do)
+- [NT](https://www.nt.gov.au/tenders)
+- [TAS](https://www.purchasing.tas.gov.au/winning-government-business/finding-business/finding-opportunities/current-tenders)
+
+Contracts and tenders, and surrounding media reports, can help paint a picture of _why_ certain decisions were made and can be full of information relevant to an investigation.
