@@ -61,6 +61,7 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Transport](#↑-transport)
 - [Courts & Tribunal Hearings](#↑-courts-and-tribunal-hearings)
 - [Government Tenders & Contracts](#↑-tenders-and-contracts)
+- [Intellectual Property & Trade Marks](#↑-intellectual-property--trade-marks)
 
 ## [↑](#contents) Introduction
 
@@ -693,3 +694,10 @@ Each government around Australia contracts out certain activities to private thi
 - [TAS](https://www.purchasing.tas.gov.au/winning-government-business/finding-business/finding-opportunities/current-tenders)
 
 Contracts and tenders, and surrounding media reports, can help paint a picture of _why_ certain decisions were made and can be full of information relevant to an investigation.
+
+## [↑](#contents) Intellectual Property & Trade Marks
+
+IP Australia offers a search function for trade marks and copyright. This may help an investigation directly, but it's also important to respect trade mark and copyright legislation as part of the investigation and reporting process, so as to not jeapordise your work.
+
+- [IP Australia Search](https://search.ipaustralia.gov.au/trademarks/search/quick)
+- [NAA Historic Copyright Records](https://www.naa.gov.au/help-your-research/fact-sheets/copyright-records)
