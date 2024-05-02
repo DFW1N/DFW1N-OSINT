@@ -548,6 +548,10 @@ You may have found the company or name of your target. Why not check if they hav
 
 - [ABN Search](https://abr.business.gov.au/) - _Trading names to continue to be displayed for a further five years, ABN Lookup will continue to display trading names for a further five years until 31 October 2023._
 
+Companies need to be registered with ASIC, as well as business names. You can find information about companies tied to their ACNs (Australian _company_ numbers) as well as information behind sole traders (including home addresses in some cases, if they haven't marked themselves as anonymous in the Australian Electoral Role). ASIC also offers the ability to obtain company filings for a fee.
+
+- [ASIC Search](https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_afrLoop=3003402451040482&_afrWindowMode=0&_adf.ctrl-state=a3dcbrikg_4)
+
 ## [↑](#contents) Report Generators
 
 After you have enough information on your target, you can use these tools to assist in generating a final report:
