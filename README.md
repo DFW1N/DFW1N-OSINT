@@ -56,6 +56,13 @@ Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/
 - [Dark Web Links](#-dark-web-links)
 - [Freedom Of Information](#-freedom-of-information)
 - [Australian Archives](#-australian-archives)
+- [Radio/Signal Broadcasts](#↑-radiosignal-broadcasts)
+- [Aerial Imagery](#↑-aerial-imagery)
+- [Transport](#↑-transport)
+- [Courts & Tribunal Hearings](#↑-courts-and-tribunal-hearings)
+- [Government Tenders & Contracts](#↑-tenders-and-contracts)
+- [Intellectual Property & Trade Marks](#↑-intellectual-property--trade-marks)
+- [Intellectual Property & Trade Marks](#↑-public-service-gazettes)
 
 ## [↑](#contents) Introduction
 
@@ -543,6 +550,10 @@ You may have found the company or name of your target. Why not check if they hav
 
 - [ABN Search](https://abr.business.gov.au/) - _Trading names to continue to be displayed for a further five years, ABN Lookup will continue to display trading names for a further five years until 31 October 2023._
 
+Companies need to be registered with ASIC, as well as business names. You can find information about companies tied to their ACNs (Australian _company_ numbers) as well as information behind sole traders (including home addresses in some cases, if they haven't marked themselves as anonymous in the Australian Electoral Role). ASIC also offers the ability to obtain company filings for a fee.
+
+- [ASIC Search](https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_afrLoop=3003402451040482&_afrWindowMode=0&_adf.ctrl-state=a3dcbrikg_4)
+
 ## [↑](#contents) Report Generators
 
 After you have enough information on your target, you can use these tools to assist in generating a final report:
@@ -618,3 +629,86 @@ Please Support me if this has helped you with OSINT Research or investigation by
 [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/linkedin_circle-512.png" align="left" width="30">](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/) [@Sacha Roussakis-Notter](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)
 
 [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Header.png" align="left" width="900">](https://www.linkedin.com/in/sacha-roussakis-notter-b6903095/)
+
+## [↑](#contents) Radio/Signal Broadcasts
+
+Many Australian radio and signal feeds are streamed and/or archived across the web. For example, the ACT's emergency services broadcast feed and its archives can be found here:
+
+- https://www.broadcastify.com/listen/feed/41421
+
+These feeds can be incredibly useful. The ABC used this particular feed to [time the emergency response](https://www.abc.net.au/news/2021-08-01/how-abc-exposed-communications-breakdown-orroral-valley-fire/100340210) to the Namadgi bushfire in January 2020.
+
+## [↑](#contents) Aerial Imagery
+
+Beyond satellite data from providers like MODIS, Australian jurisdictions often release aerial imagery and other geospatial data through public GIS servers (often running ArcGIS behind the scenes).
+
+Geoscience Australia has a vast online collection of historic aerial imagery that is available for free access:
+
+- [Geoscience Australia](https://geoscience-au.maps.arcgis.com/apps/webappviewer/index.html?id=06161d013fe645e2bccfd8e961b0e212)
+
+Other providers include State/Territory governments themselves. The ACT and NSW governments both provide ArcGIS access to historic and current(ish) aerial imagery:
+
+- [NSW](https://portal.spatial.nsw.gov.au/portal/apps/webappviewer/index.html?id=f7c215b873864d44bccddda8075238cb)
+- [ACT mapi](https://apps.vertigisstudio.com/web/?app=8e7485a3d9a54f038682e1cb00cd7a31)
+
+## [↑](#contents) Transport
+
+### Flights
+
+Like pretty much anywhere else in the world, you can track Australian airlines and flights with flight trackers like [Flightradar24](https://www.flightradar24.com/).
+
+### Public Transport
+
+Many jurisdictions have open data feeds that provide current or near-current information about public transport systems. The ACT has a data feed for their ACTION buses as well as live data feeds for their tram system. More information canb e found [here](https://www.transport.act.gov.au/contact-us/information-for-developers). If you have access to the Google Maps API, you can get a general interface into most jurisdictions' transport systems where Google has already done the API integration work for you. More info can be found [here](https://developers.google.com/maps/documentation/javascript/get-api-key).
+
+## [↑](#contents) Courts and Tribunal Hearings
+
+Most courts in Australia are open, meaning the public is allowed to know about who each hearing is for, and can visit the court (or in some cases dial in remotely) to watch/listen to the hearing's proceedings.
+
+NSW provides a central list for all court cases. If you can pass a CAPTCHA, you can access them all:
+
+- https://districtcourt.nsw.gov.au/court-lists-and-sitting-dates/types-of-court-lists.html
+
+The ACT does the same (pretty easy, as it only has 2 courts beyond the Childrens Court):
+
+- https://www.courts.act.gov.au/coming-to-court/lists
+
+Some other jurisdictions like Queensland make the process a bit harder, where some local/magistrate courts (e.g., Toowoomba) have their own websites with their own hearing list system. These can range from well-maintained to copy-and-pasted-PDF to non-existing levels of accessibility:
+
+- https://www.courts.qld.gov.au/__external/CourtsLawList/ToowoombaCourt.pdf
+
+The Federal courts (including the High Court) provide regularly updated hearing lists:
+
+- https://www.hcourt.gov.au/registry/court-lists
+- https://www.fedcourt.gov.au/court-calendar/daily-court-lists (per-jurisdiction)
+
+## [↑](#contents) Tenders and Contracts
+
+Each government around Australia contracts out certain activities to private third parties. Tenders (proposals for this work) and contracts (agreements between 3rd parties and the government to complete the work and constraints, etc.) are publicly available to different degrees depending on jurisdiction. The Commonwealth's one-stop shop for contracts and tenders is [AusTender](https://www.tenders.gov.au/). Each state and territory provides their contract listings to varying degrees of accessibility.
+
+- [ACT](https://www.procurement.act.gov.au/registers/contracts-register)
+- [NSW](https://www.tenders.nsw.gov.au/)
+- [QLD](https://qtenders.epw.qld.gov.au/)
+- [SA](https://www.tenders.sa.gov.au/)
+- [WA](https://www.tenders.wa.gov.au/watenders/index.do)
+- [NT](https://www.nt.gov.au/tenders)
+- [TAS](https://www.purchasing.tas.gov.au/winning-government-business/finding-business/finding-opportunities/current-tenders)
+
+Contracts and tenders, and surrounding media reports, can help paint a picture of _why_ certain decisions were made and can be full of information relevant to an investigation.
+
+## [↑](#contents) Intellectual Property & Trade Marks
+
+IP Australia offers a search function for trade marks and copyright. This may help an investigation directly, but it's also important to respect trade mark and copyright legislation as part of the investigation and reporting process, so as to not jeapordise your work.
+
+- [IP Australia Search](https://search.ipaustralia.gov.au/trademarks/search/quick)
+- [NAA Historic Copyright Records](https://www.naa.gov.au/help-your-research/fact-sheets/copyright-records)
+
+## [↑](#contents) Public Service Gazettes
+
+Most governments in Australia publish employment gazettes. These documents contain the names of new internal employees within the public service. You're not going to find any ASIO agents this way, but they can offer some quick wins if you have a full name to use within your investigation:
+
+- [APS Gazette](https://www.apsjobs.gov.au/s/gazette)
+- [ACT](https://www.jobs.act.gov.au/how-we-hire/gazettes)
+- [NSW](https://legislation.nsw.gov.au/gazette)
+
+etc., you can easily Google the rest.
