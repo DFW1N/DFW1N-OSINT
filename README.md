@@ -285,6 +285,7 @@ Specifically use these to get alerts when something changes or is posted with sp
 Assuming you know or have obtained your target's email address, you can check if their email has been compromised. A compromised email could lead to hashed, encrypted, or even plaintext passwords as well as more personally-identifiable information.
 
 - [Haveibeenpwned](https://haveibeenpwned.com/) - _Check if you have an account that has been compromised in a data breach._
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - _Check if your username or email address has been compromised in a global Infostealer malware attack._
 - [DeHashed](https://www.dehashed.com/) - _Display usernames & passwords from an account that has been compromised in a data breach._
 - [Citadel](http://citadel.pw) - _Display usernames & passwords from an account that has been compromised in a data breach._
 - [MD5 Cracking and Hashing](https://md5decrypt.net/en/) - _Crack MD5 Hashes. This website also provides many other hash cracking tools such as SHA-512 decryption, SHA-256, Morse Code Decoding etc._
