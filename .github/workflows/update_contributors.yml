@@ -1,0 +1,16 @@
+name: Update Contributors
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  contrib-readme-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: mgechev/contributor-list-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "docs(readme): update contributors" 
