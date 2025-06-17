@@ -503,6 +503,7 @@ These programs and tools can be used for OSINT Research to try get a understandi
 - [Online Barcode Reader](https://www.onlinebarcodereader.com/) - _You never know when you may come across a Barcode that your target may have posted or used somewhere._
 - [ByteScout Barcode Reader](https://app.bytescout.com/barcode-reader/barcode-reader.html) - _Barcode Reader._
 - [Barcode Generator](https://www.barcodesinc.com/generator/index.php) - _Read barcodes and generate your own barcodes._
+- [Barcode Maker](https://barcode-maker.com) - _Bulk generate barcodes online for free with support for EAN-13, Code 128 and other linear barcodes._
 
 ## [↑](#contents) Automated OSINT Tools
 
