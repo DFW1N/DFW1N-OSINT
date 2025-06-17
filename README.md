@@ -13,7 +13,7 @@ A reminder that this list is still currently being developed and is built on OSI
 Contributor: [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
 
 - [Sacha Roussakis-Notter](https://github.com/DFW1N)
-- [Crimol](https://www.crimol.com)
+- [Buun Group](https://buungroup.com)
 - [Miles Greenwark](https://github.com/king-millez)
 
 ## Contributing
