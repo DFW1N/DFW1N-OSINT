@@ -267,6 +267,7 @@ Some links that scan through sites to find where your target is registered:
 - [User Search](http://www.usersearch.org) - _Searches for usernames on social media sites._
 - [Xbox Username Checker](https://www.xboxgamertag.com/) - _Search for your target's gamer tag on xbox when was the last time they were online?_
 - [Check Usernames](www.checkusernames.com) - _Check the use of your brand or username on 160 Social Networks._
+- [Username Search](https://www.user-searcher.com/) - _Search usernames across 2000+ social media platforms, dating sites, forums, and more._
 
 ### [↑](#-table-of-contents) Person Investigations
 
