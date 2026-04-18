@@ -338,6 +338,7 @@ Specifically use these to get alerts when something changes or is posted with sp
 - [Meltwater](https://www.meltwater.com/au/) - _Social and marketing teams go beyond media monitoring. Try Monitoring your targets business or organisation._
 - [PasteLert](https://andrewmohawk.com/pasteLert/) - _Set up alerts (like google alerts) for pastebin.com entries._
 - [VisualPing](https://visualping.io/) - _Select an area and relax: We'll send you an email alert when something changes._
+- [Snaplert](https://snaplert.com/) - _Monitor any webpage for changes with visual pixel diffs, AI-powered summaries, and element-level zone picker. Free during open beta._
 
 ### [↑](#-table-of-contents) Email Data Dumps
 
