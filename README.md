@@ -189,6 +189,7 @@ So you are making burner accounts to do your OSINT on the internet and deep web.
 - [Burner](https://www.burnerapp.com/) - _Burner is the original second phone number app for calling, texting and picture messaging, however this isn't free._
 - [ReceiveSMS](https://www.receivesms.org/) - _They are a service that allows you to use our free phone numbers to receive SMS online and anonymously._
 - [Random Address Generator](https://www.fakepersongenerator.com/random-address) - _Generated addresses covering all cities and states in the United States._
+- [Fakenamely](https://fakenamely.com/) - _Generate fictional Australian names and state/postcode-matched addresses; includes a free JSON API with seeded, reproducible output for authorised testing and OSINT workflows._
 - [SpinXO Username Generator](http://www.spinxo.com/) - _Use their username generator to combine various popular keywords with your name, words that are important to you or characterize you and your personality._
 - [TempSMS](https://www.temp-sms.org) - _Receive SMS online instantly using New Zealand burner mobile numbers._
 
