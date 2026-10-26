@@ -235,7 +235,7 @@ This list will provide you with the largest email providers to assist you in eit
 - [Twitter Search Advanced](https://twitter.com/search-advanced?lang=en)
 - [Obtain Twitter IDs](http://gettwitterid.com)
 - [Audit Twitter Followers](https://www.twitteraudit.com) - _Find out how many of your targets followers are real. Are they buying twitter followers?_
-- [Find Twitter First Follower](https://socialrank.com/firstfollower) - _Who was your targets first follower, or maybe yours?_
+- [twtData Account Checker](https://twtdata.com/crypto-kol-checker/) - _Scores any public X (Twitter) account 0-100 for bot or fake signals and lists what drove the score (account age, follower/following ratio, posting rate, list memberships). No login._
 - [Hashtagify](https://hashtagify.me/hashtag/tbt) - _Monitor your performance, exploit the best hashtag suggestions and identify Twitter influencers all in one place._
 - [Foller](https://foller.me/) - _Twitter analytics application that gives you rich insights about any public Twitter profile. Gathers near real-time data about topics, mentions, hashtags, followers, location and more!_
 
