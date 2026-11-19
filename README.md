@@ -69,7 +69,7 @@ Please read the [CONTRIBUTING.md](https://github.com/DFW1N/DFW1N-OSINT/blob/mast
 
 ## 🙏 Acknowledgements
 
-We would also like to thank <img src="https://buungroup.com/logo/logo.svg" width="12px;" alt="n"/> [Buun Group](https://buungroup.com) for their support.
+We would also like to thank <picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.buungroup.com/brand/logo/buungroup-mark-on-dark.svg" /><img src="https://assets.buungroup.com/brand/logo/buungroup-mark.svg" width="12" height="12" alt="n"/></picture> [Buun Group](https://buungroup.com) for their support.
 
 ## 📖 Table of Contents
 
